@@ -1,0 +1,6505 @@
+[
+ {
+   "title": "0 To 100 / The Catch Up",
+   "genre": "Hip-Hop",
+   "artist": "Drake",
+   "duration": 30.015,
+   "filename": "0-to-100-the-catch-up.m4r"
+ },
+ {
+   "title": "1-08 You\\\\\\'re Dead",
+   "genre": "TV & Movies",
+   "artist": "no Artist",
+   "duration": 5.016,
+   "filename": "1-08-youre-dead.m4r"
+ },
+ {
+   "title": "01. Inside My Soul (GJ’s Soul Excursion Mix)",
+   "genre": "House",
+   "artist": "Various Artists",
+   "duration": 29.989,
+   "filename": "01-inside-my-soul-gjs-soul-excursion-mix.m4r"
+ },
+ {
+   "title": "01 Tu Hi Mera - DownloadMing.info",
+   "genre": "Alternative",
+   "artist": "Shafqat Amanat Ali",
+   "duration": 30.015,
+   "filename": "01-tu-hi-mera.m4r"
+ },
+ {
+   "title": "1rack10",
+   "genre": "Alternative",
+   "artist": "Test",
+   "duration": 14.002,
+   "filename": "1rack10.m4r"
+ },
+ {
+   "title": "01.When I\\\\\\'m Gone",
+   "genre": "Hip Hop",
+   "artist": "Wiz Khalifa (Rolling Papers) (2o11)",
+   "duration": 26.734,
+   "filename": "01when-im-gone.m4r"
+ },
+ {
+   "title": "2 On",
+   "genre": "R & B",
+   "artist": "Tinashe Feat. Schoolboy Q",
+   "duration": 30.015,
+   "filename": "2-on.m4r"
+ },
+ {
+   "title": "2 Reasons",
+   "genre": "Hip Hop",
+   "artist": "Trey Songz",
+   "duration": 29.989,
+   "filename": "2-reasons.m4r"
+ },
+ {
+   "title": "03 Tujhe Sochta Hoon - DownloadMing.info",
+   "genre": "Lounge",
+   "artist": "K.K.",
+   "duration": 29.989,
+   "filename": "03-tujhe-sochta-hoon.m4r"
+ },
+ {
+   "title": "5 OClock",
+   "genre": "Hip Hop",
+   "artist": "T-Pain",
+   "duration": 29.989,
+   "filename": "5-oclock.m4r"
+ },
+ {
+   "title": "5 OClock Feat. Wiz Khalifa & Lily Allen",
+   "genre": "Hip Hop",
+   "artist": "T-Pain",
+   "duration": 29.022,
+   "filename": "5-oclock-feat-wiz-khalifa-lily-allen.m4r"
+ },
+ {
+   "title": "9. Out of My Mind (feat. Nicki Minaj)",
+   "genre": "Hip Hop",
+   "artist": "B.o.B",
+   "duration": 29.022,
+   "filename": "9-out-of-my-mind-feat-nicki-minaj.m4r"
+ },
+ {
+   "title": "22",
+   "genre": "Country",
+   "artist": "Taylor Swift",
+   "duration": 25.992,
+   "filename": "22.m4r"
+ },
+ {
+   "title": "24 Hours",
+   "genre": "R & B",
+   "artist": "TeeFlii feat. 2 Chainz",
+   "duration": 30.015,
+   "filename": "24-hours.m4r"
+ },
+ {
+   "title": "50 Ways To Say Goodbye",
+   "genre": "Pop",
+   "artist": "Train",
+   "duration": 30.015,
+   "filename": "50-ways-to-say-goodbye.m4r"
+ },
+ {
+   "title": "99 Problems",
+   "genre": "Hip Hop",
+   "artist": "Jay-Z",
+   "duration": 28.996,
+   "filename": "99-problems.m4r"
+ },
+ {
+   "title": "11.278-Twinkle Twinkle - www.Songs.PK",
+   "genre": "Blues",
+   "artist": "Shreya Ghoshal & Rana Mazumder",
+   "duration": 57.7,
+   "filename": "11278-twinkle-twinkle-wwwsongspk.m4r"
+ },
+ {
+   "title": "A Little Bit Stronger",
+   "genre": "Country",
+   "artist": "Sarah Evans",
+   "duration": 29.989,
+   "filename": "a-little-bit-stronger.m4r"
+ },
+ {
+   "title": "A New Day",
+   "genre": "R & B",
+   "artist": "Alicia Keys",
+   "duration": 30.015,
+   "filename": "a-new-day.m4r"
+ },
+ {
+   "title": "A Twist In My Story",
+   "genre": "Rock",
+   "artist": "Secondhand Serenade",
+   "duration": 127.098,
+   "filename": "a-twist-in-my-story.m4r"
+ },
+ {
+   "title": "A Woman Like You",
+   "genre": "Country",
+   "artist": "Lee Brice",
+   "duration": 30,
+   "filename": "a-woman-like-you.m4r"
+ },
+ {
+   "title": "Aal Izz Well - www.Songs.PK",
+   "genre": "Soundtrack",
+   "artist": "Sonu Nigam, Swanand Kirkire & Shaan",
+   "duration": 8.266,
+   "filename": "aal-izz-well-wwwsongspk.m4r"
+ },
+ {
+   "title": "Aal Izz Well,siba:$.",
+   "genre": "Soundtrack",
+   "artist": "Sonu Nigam, Swanand Kirkire & Shaan",
+   "duration": 9.699,
+   "filename": "aal-izz-wellsiba.m4r"
+ },
+ {
+   "title": "Adorn",
+   "genre": "R & B",
+   "artist": "Miguel",
+   "duration": 29.963,
+   "filename": "adorn.m4r"
+ },
+ {
+   "title": "After Hours - Smooth Jazz Guitar",
+   "genre": "Jazz",
+   "artist": "Ronny Jordan",
+   "duration": 30.015,
+   "filename": "after-hours-smooth-jazz-guitar.m4r"
+ },
+ {
+   "title": "After the World",
+   "genre": "Gospel",
+   "artist": "Disciple",
+   "duration": 27.011,
+   "filename": "after-the-world.m4r"
+ },
+ {
+   "title": "ai se eu te pego",
+   "genre": "Electronica",
+   "artist": "Michel Telo",
+   "duration": 29.989,
+   "filename": "ai-se-eu-te-pego.m4r"
+ },
+ {
+   "title": "Algo Me Gusta De Ti",
+   "genre": "Latin",
+   "artist": "Wisin y Yandel",
+   "duration": 29.989,
+   "filename": "algo-me-gusta-de-ti.m4r"
+ },
+ {
+   "title": "ALL ABOUT US",
+   "genre": "Pop",
+   "artist": "TATU",
+   "duration": 29.982,
+   "filename": "all-about-us.m4r"
+ },
+ {
+   "title": "All Gold Everything",
+   "genre": "Hip Hop",
+   "artist": "Trinidad James",
+   "duration": 29.989,
+   "filename": "all-gold-everything.m4r"
+ },
+ {
+   "title": "all my life",
+   "genre": "R & B",
+   "artist": "kc and jojo",
+   "duration": 30.015,
+   "filename": "all-my-life.m4r"
+ },
+ {
+   "title": "All of the Lights",
+   "genre": "Hip Hop",
+   "artist": "Rihanna",
+   "duration": 30.015,
+   "filename": "all-of-the-lights.m4r"
+ },
+ {
+   "title": "All Or Nothing (Poor Georgie Porgie Mix) (HQ)",
+   "genre": "R & B",
+   "artist": "Joe",
+   "duration": 30.015,
+   "filename": "all-or-nothing-poor-georgie-porgie-mix-hq.m4r"
+ },
+ {
+   "title": "All She Knows",
+   "genre": "Pop",
+   "artist": "Bruno Mars",
+   "duration": 29.988,
+   "filename": "all-she-knows.m4r"
+ },
+ {
+   "title": "All The Things She Said",
+   "genre": "Pop",
+   "artist": "t.A.T.u.",
+   "duration": 29.989,
+   "filename": "all-the-things-she-said.m4r"
+ },
+ {
+   "title": "All the way home",
+   "genre": "R & B",
+   "artist": "Tamar Braxton",
+   "duration": 30.015,
+   "filename": "all-the-way-home.m4r"
+ },
+ {
+   "title": "All You",
+   "genre": "Dance",
+   "artist": "Cataracs",
+   "duration": 29.989,
+   "filename": "all-you.m4r"
+ },
+ {
+   "title": "All Your Life",
+   "genre": "Country",
+   "artist": "The Band Perry",
+   "duration": 29.989,
+   "filename": "all-your-life.m4r"
+ },
+ {
+   "title": "Alone With You",
+   "genre": "Country",
+   "artist": "Jake Owen",
+   "duration": 30.015,
+   "filename": "alone-with-you.m4r"
+ },
+ {
+   "title": "am i wrong",
+   "genre": "Pop",
+   "artist": "nico and vinz",
+   "duration": 29.989,
+   "filename": "am-i-wrong.m4r"
+ },
+ {
+   "title": "Amen",
+   "genre": "Hip Hop",
+   "artist": "Meek Mill",
+   "duration": 30.015,
+   "filename": "amen.m4r"
+ },
+ {
+   "title": "Amen (Feat. Drake & Jeremih)",
+   "genre": "Hip Hop",
+   "artist": "Meek Mill",
+   "duration": 29.92,
+   "filename": "amen-feat-drake-jeremih.m4r"
+ },
+ {
+   "title": "American Boy (Radio Edit w/ Kanye)",
+   "genre": "R & B",
+   "artist": "Estelle",
+   "duration": 30.015,
+   "filename": "american-boy-radio-edit-w-kanye.m4r"
+ },
+ {
+   "title": "Amor clandestino",
+   "genre": "Rock En Español",
+   "artist": "Maná",
+   "duration": 28.924,
+   "filename": "amor-clandestino.m4r"
+ },
+ {
+   "title": "Ana Fintazaarek MP3",
+   "genre": "Other",
+   "artist": "Youssef Boutros",
+   "duration": 29.989,
+   "filename": "ana-fintazaarek-mp3.m4r"
+ },
+ {
+   "title": "Anaconda",
+   "genre": "Hip-Hop",
+   "artist": "Nicki Minaj",
+   "duration": 29.944,
+   "filename": "anaconda.m4r"
+ },
+ {
+   "title": "Anatomy",
+   "genre": "Rock",
+   "artist": "The Devil Wears Prada",
+   "duration": 30.015,
+   "filename": "anatomy.m4r"
+ },
+ {
+   "title": "Angel Eyes",
+   "genre": "Country",
+   "artist": "Love and Theft",
+   "duration": 29.989,
+   "filename": "angel-eyes.m4r"
+ },
+ {
+   "title": "Angels & Demons",
+   "genre": "Pop",
+   "artist": "Tamar Braxton",
+   "duration": 30.015,
+   "filename": "angels-demons.m4r"
+ },
+ {
+   "title": "Another One Bites The Dust",
+   "genre": "Disco",
+   "artist": "Queen",
+   "duration": 30.015,
+   "filename": "another-one-bites-the-dust.m4r"
+ },
+ {
+   "title": "Another Round",
+   "genre": "Hip Hop",
+   "artist": "FAT JOE FT. CHRIS BROWN",
+   "duration": 29.989,
+   "filename": "another-round.m4r"
+ },
+ {
+   "title": "Apachi Dance",
+   "genre": "Dance",
+   "artist": "Apachi Dance",
+   "duration": 30.015,
+   "filename": "apachi-dance.m4r"
+ },
+ {
+   "title": "appachi",
+   "genre": "Disco",
+   "artist": "appachi",
+   "duration": 21.002,
+   "filename": "appachi.m4r"
+ },
+ {
+   "title": "Apparently",
+   "genre": "R & B",
+   "artist": "J.Cole",
+   "duration": 29.989,
+   "filename": "apparently.m4r"
+ },
+ {
+   "title": "Applause",
+   "genre": "Pop",
+   "artist": "Lady Gaga",
+   "duration": 29.989,
+   "filename": "applause.m4r"
+ },
+ {
+   "title": "Around My Way",
+   "genre": "Pop",
+   "artist": "Lupe Fiasco",
+   "duration": 30.015,
+   "filename": "around-my-way.m4r"
+ },
+ {
+   "title": "As Long As You Love Me",
+   "genre": "Pop",
+   "artist": "Justin Bieber",
+   "duration": 30.015,
+   "filename": "as-long-as-you-love-me.m4r"
+ },
+ {
+   "title": "ASAP",
+   "genre": "Hip-Hop",
+   "artist": "Rocky",
+   "duration": 30,
+   "filename": "asap.m4r"
+ },
+ {
+   "title": "ASAP Rocky-Bass Prod By Clams Casino",
+   "genre": "Hip Hop",
+   "artist": "ASAP Rocky",
+   "duration": 29.989,
+   "filename": "asap-rocky-bass-prod-by-clams-casino.m4r"
+ },
+ {
+   "title": "asoka theme",
+   "genre": "Bollywood",
+   "artist": "Shahrukh Khan & Kareena Kapoor",
+   "duration": 30.015,
+   "filename": "asoka-theme.m4r"
+ },
+ {
+   "title": "Ass Back Home (Feat. Neon Hitch)",
+   "genre": "Hip Hop",
+   "artist": "Gym Class Heroes",
+   "duration": 29.989,
+   "filename": "ass-back-home-feat-neon-hitch.m4r"
+ },
+ {
+   "title": "Assyrian Nokia",
+   "genre": "Other",
+   "artist": "Assyrian",
+   "duration": 29.022,
+   "filename": "assyrian-nokia.m4r"
+ },
+ {
+   "title": "Atomic Dog",
+   "genre": "Funky",
+   "artist": "George Clinton",
+   "duration": 29.989,
+   "filename": "atomic-dog.m4r"
+ },
+ {
+   "title": "Attitude Sebastian",
+   "genre": "Pop",
+   "artist": "Timbaland",
+   "duration": 30.015,
+   "filename": "attitude-sebastian.m4r"
+ },
+ {
+   "title": "Awake And Alive",
+   "genre": "Rock",
+   "artist": "Skillet",
+   "duration": 28.451,
+   "filename": "awake-and-alive.m4r"
+ },
+ {
+   "title": "Ay Chico",
+   "genre": "Reggaeton",
+   "artist": "Pitbull",
+   "duration": 29.989,
+   "filename": "ay-chico.m4r"
+ },
+ {
+   "title": "AYO",
+   "genre": "Hip Hop",
+   "artist": "Chris Brown & Tyga",
+   "duration": 29.989,
+   "filename": "ayo.m4r"
+ },
+ {
+   "title": "Ayy Ladies (Feat. Tyga) [Prod. By FKi] (Bonus)",
+   "genre": "Hip Hop",
+   "artist": "Travis Porter",
+   "duration": 30.015,
+   "filename": "ayy-ladies-feat-tyga-prod-by-fki-bonus.m4r"
+ },
+ {
+   "title": "Babe I\\\\\\'m Gonna Leave You",
+   "genre": "Rock",
+   "artist": "Led Zeppelin",
+   "duration": 30.015,
+   "filename": "babe-im-gonna-leave-you.m4r"
+ },
+ {
+   "title": "Baby Got Back",
+   "genre": "Hip Hop",
+   "artist": "Sir Mix Alot",
+   "duration": 29.022,
+   "filename": "baby-got-back.m4r"
+ },
+ {
+   "title": "Baby Laugh",
+   "genre": "Funky",
+   "artist": "Sara Isaacson",
+   "duration": 6.012,
+   "filename": "baby-laugh.m4r"
+ },
+ {
+   "title": "Back In Time",
+   "genre": "Hip Hop",
+   "artist": "Pitbull",
+   "duration": 30.015,
+   "filename": "back-in-time.m4r"
+ },
+ {
+   "title": "Back Seat",
+   "genre": "Pop",
+   "artist": "New Boyz",
+   "duration": 29.785,
+   "filename": "back-seat.m4r"
+ },
+ {
+   "title": "Back to the hotel",
+   "genre": "Hip Hop",
+   "artist": "N 2 Deep",
+   "duration": 30.015,
+   "filename": "back-to-the-hotel.m4r"
+ },
+ {
+   "title": "Back When",
+   "genre": "Country",
+   "artist": "Tim McGraw1",
+   "duration": 30.015,
+   "filename": "back-when.m4r"
+ },
+ {
+   "title": "Bad Boys (Original Mix)",
+   "genre": "Reggae",
+   "artist": "Bob Marley",
+   "duration": 29.022,
+   "filename": "bad-boys-original-mix.m4r"
+ },
+ {
+   "title": "Bad Girls",
+   "genre": "Hip Hop",
+   "artist": "M.I.A.",
+   "duration": 26.544,
+   "filename": "bad-girls.m4r"
+ },
+ {
+   "title": "Bad Romance",
+   "genre": "Pop",
+   "artist": "Lady GaGa",
+   "duration": 29.989,
+   "filename": "bad-romance.m4r"
+ },
+ {
+   "title": "Bag of Money (Feat. T-Pain)",
+   "genre": "Hip Hop",
+   "artist": "Rick Ross, Wale, & Meek Mill",
+   "duration": 29.989,
+   "filename": "bag-of-money-feat-t-pain.m4r"
+ },
+ {
+   "title": "Ball",
+   "genre": "Hip-Hop",
+   "artist": "T.I.",
+   "duration": 29.989,
+   "filename": "ball.m4r"
+ },
+ {
+   "title": "Banjo",
+   "genre": "Country",
+   "artist": "Rascal Flatts",
+   "duration": 29.13,
+   "filename": "banjo.m4r"
+ },
+ {
+   "title": "Barefoot Blue Jean Night",
+   "genre": "Country",
+   "artist": "Jake Owen",
+   "duration": 29.989,
+   "filename": "barefoot-blue-jean-night.m4r"
+ },
+ {
+   "title": "Basement Funk",
+   "genre": "House",
+   "artist": "Playin\\' 4 The City",
+   "duration": 29.989,
+   "filename": "basement-funk.m4r"
+ },
+ {
+   "title": "Basta Ya",
+   "genre": "Latin",
+   "artist": "Jenni Rivera",
+   "duration": 29.989,
+   "filename": "basta-ya.m4r"
+ },
+ {
+   "title": "Battle scars",
+   "genre": "Hip Hop",
+   "artist": "Lupe Fiasco",
+   "duration": 29.989,
+   "filename": "battle-scars.m4r"
+ },
+ {
+   "title": "Be Free - Basement Jaxx",
+   "genre": "House",
+   "artist": "Basement Jaxx",
+   "duration": 29.989,
+   "filename": "be-free-basement-jaxx.m4r"
+ },
+ {
+   "title": "Beat that Beat Up",
+   "genre": "Dance",
+   "artist": "Pauly D",
+   "duration": 29.989,
+   "filename": "beat-that-beat-up.m4r"
+ },
+ {
+   "title": "Beautiful You",
+   "genre": "House",
+   "artist": "Azeem/Dealer\\'s Choice",
+   "duration": 30.015,
+   "filename": "beautiful-you.m4r"
+ },
+ {
+   "title": "Beers Ago",
+   "genre": "Country",
+   "artist": "Toby Keith",
+   "duration": 30.015,
+   "filename": "beers-ago.m4r"
+ },
+ {
+   "title": "Beez In The Trap",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 29.989,
+   "filename": "beez-in-the-trap.m4r"
+ },
+ {
+   "title": "beg for it",
+   "genre": "R & B",
+   "artist": "chris brown",
+   "duration": 30.015,
+   "filename": "beg-for-it.m4r"
+ },
+ {
+   "title": "Begin Again",
+   "genre": "Country",
+   "artist": "Taylor Swift",
+   "duration": 29.989,
+   "filename": "begin-again.m4r"
+ },
+ {
+   "title": "Believe",
+   "genre": "Rock",
+   "artist": "Skillet",
+   "duration": 32.422,
+   "filename": "believe.m4r"
+ },
+ {
+   "title": "Best day of my life",
+   "genre": "Pop",
+   "artist": "American Authors",
+   "duration": 30.015,
+   "filename": "best-day-of-my-life.m4r"
+ },
+ {
+   "title": "Best Song Ever",
+   "genre": "Pop",
+   "artist": "One Direction",
+   "duration": 30.015,
+   "filename": "best-song-ever.m4r"
+ },
+ {
+   "title": "Better Dig Two",
+   "genre": "Country",
+   "artist": "The Band Perry",
+   "duration": 29.989,
+   "filename": "better-dig-two.m4r"
+ },
+ {
+   "title": "better than i used to be",
+   "genre": "Country",
+   "artist": "tim mcgraw",
+   "duration": 29.989,
+   "filename": "better-than-i-used-to-be.m4r"
+ },
+ {
+   "title": "Between Me and You",
+   "genre": "Hip Hop",
+   "artist": "Ja Rule",
+   "duration": 29.97,
+   "filename": "between-me-and-you.m4r"
+ },
+ {
+   "title": "Beware",
+   "genre": "Hip Hop",
+   "artist": "Big Sean",
+   "duration": 30.015,
+   "filename": "beware.m4r"
+ },
+ {
+   "title": "Big Girls Don\\\\\\'t Cry",
+   "genre": "Pop",
+   "artist": "Fergie",
+   "duration": 29.989,
+   "filename": "big-girls-dont-cry.m4r"
+ },
+ {
+   "title": "bird",
+   "genre": "Soundtrack",
+   "artist": "natural voice of a bird",
+   "duration": 548,
+   "filename": "bird.m4r"
+ },
+ {
+   "title": "Birdman Ft Lil Wayne - Fire Flame",
+   "genre": "Hip Hop",
+   "artist": "Birdman",
+   "duration": 21.002,
+   "filename": "birdman-ft-lil-wayne-fire-flame.m4r"
+ },
+ {
+   "title": "Birthday Cake",
+   "genre": "Pop",
+   "artist": "Rihanna",
+   "duration": 30.015,
+   "filename": "birthday-cake.m4r"
+ },
+ {
+   "title": "Bitch Came Back",
+   "genre": "Rock",
+   "artist": "Theory Of A Deadman",
+   "duration": 41.613,
+   "filename": "bitch-came-back.m4r"
+ },
+ {
+   "title": "Bitch Dont Kill My Vibe",
+   "genre": "R & B",
+   "artist": "Kendrick Lamar",
+   "duration": 27.145,
+   "filename": "bitch-dont-kill-my-vibe.m4r"
+ },
+ {
+   "title": "Bitch Im The Shit",
+   "genre": "Hip Hop",
+   "artist": "Tyga",
+   "duration": 30.015,
+   "filename": "bitch-im-the-sh.m4r"
+ },
+ {
+   "title": "Bla Bla Bla",
+   "genre": "Annoying",
+   "artist": "Annoying Ringtone",
+   "duration": 29.022,
+   "filename": "bla-bla-bla.m4r"
+ },
+ {
+   "title": "Black and Yellow",
+   "genre": "Hip Hop",
+   "artist": "Wiz Khalifa",
+   "duration": 29.989,
+   "filename": "black-and-yellow.m4r"
+ },
+ {
+   "title": "Black Widow",
+   "genre": "Hip-Hop",
+   "artist": "Iggy Azalea Ft. Rita Ora",
+   "duration": 29.989,
+   "filename": "black-widow.m4r"
+ },
+ {
+   "title": "Blackout",
+   "genre": "Pop",
+   "artist": "Breathe Carolina",
+   "duration": 26.989,
+   "filename": "blackout.m4r"
+ },
+ {
+   "title": "Blame It( ft. T-Pain)",
+   "genre": "R & B",
+   "artist": "Jamie Foxx",
+   "duration": 29.989,
+   "filename": "blame-it-ft-t-pain.m4r"
+ },
+ {
+   "title": "block me",
+   "genre": "Other",
+   "artist": "Freak Show",
+   "duration": 10.005,
+   "filename": "block-me.m4r"
+ },
+ {
+   "title": "Blow Me (One Last Kiss)",
+   "genre": "Pop",
+   "artist": "Pink",
+   "duration": 29.989,
+   "filename": "blow-me-one-last-kiss.m4r"
+ },
+ {
+   "title": "Blow the Whistle - Dirty",
+   "genre": "Hip Hop",
+   "artist": "Too $hort",
+   "duration": 29.989,
+   "filename": "blow-the-whistle-dirty.m4r"
+ },
+ {
+   "title": "Blown Away",
+   "genre": "Country",
+   "artist": "Carrie Underwood",
+   "duration": 30,
+   "filename": "blown-away.m4r"
+ },
+ {
+   "title": "Blurred Lines",
+   "genre": "R & B",
+   "artist": "Robin Thicke",
+   "duration": 29.988,
+   "filename": "blurred-lines.m4r"
+ },
+ {
+   "title": "Bobby\\\\\\'s World",
+   "genre": "TV & Movies",
+   "artist": "Ringtone",
+   "duration": 29.989,
+   "filename": "bobbys-world.m4r"
+ },
+ {
+   "title": "Boo Thang",
+   "genre": "R & B",
+   "artist": "Verse Simmonds",
+   "duration": 29.989,
+   "filename": "boo-thang.m4r"
+ },
+ {
+   "title": "Boogie Nights",
+   "genre": "Disco",
+   "artist": "Heatwave",
+   "duration": 29.956,
+   "filename": "boogie-nights.m4r"
+ },
+ {
+   "title": "Born Stunna",
+   "genre": "Hip Hop",
+   "artist": "Birdman",
+   "duration": 29.921,
+   "filename": "born-stunna.m4r"
+ },
+ {
+   "title": "bounce it biggity",
+   "genre": "Hip Hop",
+   "artist": "New Orleans Bounce-Gotti Boy Chris",
+   "duration": 29.989,
+   "filename": "bounce-it-biggity.m4r"
+ },
+ {
+   "title": "Bow Down",
+   "genre": "Pop",
+   "artist": "Beyonce",
+   "duration": 30.015,
+   "filename": "bow-down.m4r"
+ },
+ {
+   "title": "Boys \\\\\\'Round Here",
+   "genre": "Country",
+   "artist": "Blake Shelton",
+   "duration": 29.989,
+   "filename": "boys-round-here.m4r"
+ },
+ {
+   "title": "Brand New Harley",
+   "genre": "Alternative",
+   "artist": "Peter Mayer",
+   "duration": 28.003,
+   "filename": "brand-new-harley.m4r"
+ },
+ {
+   "title": "Brand New Me",
+   "genre": "R & B",
+   "artist": "Alicia Keys",
+   "duration": 29.989,
+   "filename": "brand-new-me.m4r"
+ },
+ {
+   "title": "Brandy",
+   "genre": "R & B",
+   "artist": "He Is",
+   "duration": 29.989,
+   "filename": "brandy.m4r"
+ },
+ {
+   "title": "Brokenhearted",
+   "genre": "Pop",
+   "artist": "Karmin",
+   "duration": 30.015,
+   "filename": "brokenhearted.m4r"
+ },
+ {
+   "title": "Bruk It Down",
+   "genre": "Reggae",
+   "artist": "Mr Vegas",
+   "duration": 29.989,
+   "filename": "bruk-it-down.m4r"
+ },
+ {
+   "title": "Built For Sin",
+   "genre": "Rock",
+   "artist": "Framing Hanley",
+   "duration": 26.984,
+   "filename": "built-for-sin.m4r"
+ },
+ {
+   "title": "Bullet",
+   "genre": "Rock",
+   "artist": "Hollywood Undead",
+   "duration": 21,
+   "filename": "bullet.m4r"
+ },
+ {
+   "title": "Bumpin Bumpin (Dirty)",
+   "genre": "Hip Hop",
+   "artist": "Kreayshawn",
+   "duration": 30.015,
+   "filename": "bumpin-bumpin-dirty.m4r"
+ },
+ {
+   "title": "Bumpy Ride",
+   "genre": "Reggae",
+   "artist": "Mohombi",
+   "duration": 30,
+   "filename": "bumpy-ride.m4r"
+ },
+ {
+   "title": "Burn This City",
+   "genre": "Rap",
+   "artist": "Lil Wayne",
+   "duration": 29.989,
+   "filename": "burn-this-city.m4r"
+ },
+ {
+   "title": "Butterflies",
+   "genre": "R & B",
+   "artist": "Micheal Jackson",
+   "duration": 21.002,
+   "filename": "butterflies.m4r"
+ },
+ {
+   "title": "Buy The World",
+   "genre": "Pop",
+   "artist": "Mike Will Made-It feat. Lil Wayne, Kendrick Lamar & Future",
+   "duration": 30.015,
+   "filename": "buy-the-world.m4r"
+ },
+ {
+   "title": "Call Me Maybe",
+   "genre": "Pop",
+   "artist": "Carly rae jepsen",
+   "duration": 30,
+   "filename": "call-me-maybe.m4r"
+ },
+ {
+   "title": "Called Out in the Dark",
+   "genre": "Alternative",
+   "artist": "Snow Patrol",
+   "duration": 30,
+   "filename": "called-out-in-the-dark.m4r"
+ },
+ {
+   "title": "Candy Shop",
+   "genre": "Hip Hop",
+   "artist": "50 Cent",
+   "duration": 30.015,
+   "filename": "candy-shop.m4r"
+ },
+ {
+   "title": "Can\\\\\\'t Feel My Face",
+   "genre": "Pop",
+   "artist": "The Weeknd",
+   "duration": 30.006,
+   "filename": "cant-feel-my-face.m4r"
+ },
+ {
+   "title": "Cant Fight This Feeling",
+   "genre": "TV & Movies",
+   "artist": "Glee Cast",
+   "duration": 29.989,
+   "filename": "cant-fight-this-feeling.m4r"
+ },
+ {
+   "title": "Cant Remember To Forget You",
+   "genre": "Pop",
+   "artist": "Shakira feat. Rihanna",
+   "duration": 29.989,
+   "filename": "cant-remember-to-forget-you.m4r"
+ },
+ {
+   "title": "Can\\\\\\'t You Hear Me Knockin",
+   "genre": "Rock",
+   "artist": "The Rolling Stones",
+   "duration": 29.989,
+   "filename": "cant-you-hear-me-knockin.m4r"
+ },
+ {
+   "title": "Can\\\\\\'t You Hear Me Knocking",
+   "genre": "Rock",
+   "artist": "The Rolling Stones",
+   "duration": 29.022,
+   "filename": "cant-you-hear-me-knocking.m4r"
+ },
+ {
+   "title": "Careless Whisper - George Mic",
+   "genre": "Pop",
+   "artist": "George Michael, The Whispers,",
+   "duration": 29.989,
+   "filename": "careless-whisper-george-mic.m4r"
+ },
+ {
+   "title": "Carry Out",
+   "genre": "Pop",
+   "artist": "Timberland (ft. Justin Timberlake)",
+   "duration": 29.989,
+   "filename": "carry-out.m4r"
+ },
+ {
+   "title": "Casanova",
+   "genre": "Pop",
+   "artist": "Bobby summer",
+   "duration": 30.015,
+   "filename": "casanova.m4r"
+ },
+ {
+   "title": "Cases (Feat. 2Chainz)",
+   "genre": "Hip Hop",
+   "artist": "Yo Gotti",
+   "duration": 29.992,
+   "filename": "cases-feat-2chainz.m4r"
+ },
+ {
+   "title": "Cash Out - Cashin Out (Prod. By Spinz) (Dirty) #PromoKingz",
+   "genre": "Rap",
+   "artist": "Cash Out",
+   "duration": 30.015,
+   "filename": "cash-out-cashin-out-prod-by-spinz-dirty-p.m4r"
+ },
+ {
+   "title": "Cashed Out",
+   "genre": "Hip-Hop",
+   "artist": "Lil Wayne",
+   "duration": 30,
+   "filename": "cashed-out.m4r"
+ },
+ {
+   "title": "Cashin Out",
+   "genre": "Hip Hop",
+   "artist": "Soulja Boy",
+   "duration": 29.989,
+   "filename": "cashin-out.m4r"
+ },
+ {
+   "title": "Castle Walls (Ft. Christina Aguilera)",
+   "genre": "Hip Hop",
+   "artist": "T.I. Ft. Christina Aguilera",
+   "duration": 33.291,
+   "filename": "castle-walls-ft-christina-aguilera.m4r"
+ },
+ {
+   "title": "Catch my Breath",
+   "genre": "Pop",
+   "artist": "Kelly Clarkson",
+   "duration": 29.989,
+   "filename": "catch-my-breath.m4r"
+ },
+ {
+   "title": "Caught up in the rapture",
+   "genre": "R & B",
+   "artist": "Jojo",
+   "duration": 30.015,
+   "filename": "caught-up-in-the-rapture.m4r"
+ },
+ {
+   "title": "Cave In",
+   "genre": "Electronica",
+   "artist": "Owl City",
+   "duration": 29.989,
+   "filename": "cave-in.m4r"
+ },
+ {
+   "title": "Celebration",
+   "genre": "Hip Hop",
+   "artist": "Game",
+   "duration": 29.989,
+   "filename": "celebration.m4r"
+ },
+ {
+   "title": "Champion",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 30.346,
+   "filename": "champion.m4r"
+ },
+ {
+   "title": "Chasing after you",
+   "genre": "Gospel",
+   "artist": "Vashawn Mitchell",
+   "duration": 30.015,
+   "filename": "chasing-after-you.m4r"
+ },
+ {
+   "title": "Check yo self (remix)",
+   "genre": "Hip Hop",
+   "artist": "Ice Cube",
+   "duration": 29.989,
+   "filename": "check-yo-self-remix.m4r"
+ },
+ {
+   "title": "chille",
+   "genre": "Latin",
+   "artist": "Unknown Artist",
+   "duration": 29.946,
+   "filename": "chille.m4r"
+ },
+ {
+   "title": "Chillin\\\\\\' It",
+   "genre": "Country",
+   "artist": "Cole Swindell",
+   "duration": 29.745,
+   "filename": "chillin-it.m4r"
+ },
+ {
+   "title": "Chrisette Michele",
+   "genre": "R & B",
+   "artist": "Epiphany (I\\'m leaving)",
+   "duration": 29.989,
+   "filename": "chrisette-michele.m4r"
+ },
+ {
+   "title": "Clarity",
+   "genre": "Electronica",
+   "artist": "Zedd",
+   "duration": 29.956,
+   "filename": "clarity.m4r"
+ },
+ {
+   "title": "Climax",
+   "genre": "R & B",
+   "artist": "Usher",
+   "duration": 29.989,
+   "filename": "climax.m4r"
+ },
+ {
+   "title": "Clique",
+   "genre": "Hip Hop",
+   "artist": "Kanye West",
+   "duration": 30.015,
+   "filename": "clique.m4r"
+ },
+ {
+   "title": "C\\\\\\'mon",
+   "genre": "Pop",
+   "artist": "Ke$ha",
+   "duration": 29.022,
+   "filename": "cmon.m4r"
+ },
+ {
+   "title": "CoCo",
+   "genre": "Hip Hop",
+   "artist": "O.T.Genasis",
+   "duration": 30.015,
+   "filename": "coco.m4r"
+ },
+ {
+   "title": "Collard Greens",
+   "genre": "Hip Hop",
+   "artist": "Schoolboy Q",
+   "duration": 30,
+   "filename": "collard-greens.m4r"
+ },
+ {
+   "title": "Color on the Walls (Don\\\\\\'t Stop)",
+   "genre": "Pop",
+   "artist": "Foster the People",
+   "duration": 29.022,
+   "filename": "color-on-the-walls-dont-stop.m4r"
+ },
+ {
+   "title": "Come and Get It",
+   "genre": "Pop",
+   "artist": "Selena Gomez",
+   "duration": 30,
+   "filename": "come-and-get-it.m4r"
+ },
+ {
+   "title": "Come Over",
+   "genre": "Country",
+   "artist": "Kenny Chesney",
+   "duration": 30.015,
+   "filename": "come-over.m4r"
+ },
+ {
+   "title": "Come Wake Me Up",
+   "genre": "Country",
+   "artist": "Rascal Flatts",
+   "duration": 30.015,
+   "filename": "come-wake-me-up.m4r"
+ },
+ {
+   "title": "Coming Back Down",
+   "genre": "Punk",
+   "artist": "Hollywood Undead",
+   "duration": 22.55,
+   "filename": "coming-back-down.m4r"
+ },
+ {
+   "title": "Coming to America",
+   "genre": "Soundtrack",
+   "artist": "Eddie Murphy Arsenio Hall",
+   "duration": 29.022,
+   "filename": "coming-to-america.m4r"
+ },
+ {
+   "title": "Cop Siren",
+   "genre": "Annoying",
+   "artist": "Annoying Ringtone",
+   "duration": 2.997,
+   "filename": "cop-siren.m4r"
+ },
+ {
+   "title": "Countdown",
+   "genre": "R & B",
+   "artist": "Beyonce",
+   "duration": 29.989,
+   "filename": "countdown.m4r"
+ },
+ {
+   "title": "Counting Stars",
+   "genre": "Pop",
+   "artist": "OneRepublic",
+   "duration": 29.989,
+   "filename": "counting-stars.m4r"
+ },
+ {
+   "title": "Cowboys And Angels (New Single 2012)",
+   "genre": "Country",
+   "artist": "Dustin Lynch",
+   "duration": 30.015,
+   "filename": "cowboys-and-angels-new-single-2012.m4r"
+ },
+ {
+   "title": "Crawling Back To You",
+   "genre": "Rock",
+   "artist": "Daughtry",
+   "duration": 30.364,
+   "filename": "crawling-back-to-you.m4r"
+ },
+ {
+   "title": "Crazy Monkey",
+   "genre": "Annoying",
+   "artist": "Annoying Ringtone",
+   "duration": 15.02,
+   "filename": "crazy-monkey.m4r"
+ },
+ {
+   "title": "Cruise",
+   "genre": "Country",
+   "artist": "Florida Georgia Line",
+   "duration": 29.989,
+   "filename": "cruise.m4r"
+ },
+ {
+   "title": "Damacia",
+   "genre": "Annoying",
+   "artist": "Garen",
+   "duration": 1.019,
+   "filename": "damacia.m4r"
+ },
+ {
+   "title": "Dance (A$$) (Remix)",
+   "genre": "Hip Hop",
+   "artist": "Big Sean ft Nicki Minaj",
+   "duration": 29.988,
+   "filename": "dance-a-remix.m4r"
+ },
+ {
+   "title": "Dance (A$$) Remix featuring Nicki Minaj",
+   "genre": "Hip Hop",
+   "artist": "Big Sean",
+   "duration": 30,
+   "filename": "dance-a-remix-featuring-nicki-minaj.m4r"
+ },
+ {
+   "title": "dance in the mirror",
+   "genre": "Annoying",
+   "artist": "Bruno mars",
+   "duration": 28.003,
+   "filename": "dance-in-the-mirror.m4r"
+ },
+ {
+   "title": "Dancin\\\\\\' Away With My Heart",
+   "genre": "Country",
+   "artist": "Lady Antebellum",
+   "duration": 29.989,
+   "filename": "dancin-away-with-my-heart.m4r"
+ },
+ {
+   "title": "Danger Zone1",
+   "genre": "Soundtrack",
+   "artist": "Kenny Loggins",
+   "duration": 28.003,
+   "filename": "danger-zone1.m4r"
+ },
+ {
+   "title": "Dangerous",
+   "genre": "Hip Hop",
+   "artist": "Busta Rhymes",
+   "duration": 29.92,
+   "filename": "dangerous.m4r"
+ },
+ {
+   "title": "Dark Horse",
+   "genre": "Hip Hop",
+   "artist": "Katy Perry",
+   "duration": 29.989,
+   "filename": "dark-horse.m4r"
+ },
+ {
+   "title": "Dark Horse (feat. Juicy J)",
+   "genre": "Pop",
+   "artist": "Katy Perry",
+   "duration": 29.989,
+   "filename": "dark-horse-feat-juicy-j.m4r"
+ },
+ {
+   "title": "David Guetta feat Usher - Without You",
+   "genre": "Pop",
+   "artist": "David Guetta",
+   "duration": 29.989,
+   "filename": "david-guetta-feat-usher-without-you.m4r"
+ },
+ {
+   "title": "Days Go By",
+   "genre": "Rock",
+   "artist": "The Offspring",
+   "duration": 30.015,
+   "filename": "days-go-by.m4r"
+ },
+ {
+   "title": "Dear Future Husband",
+   "genre": "Pop",
+   "artist": "Meghan Trainor",
+   "duration": 29.989,
+   "filename": "dear-future-husband.m4r"
+ },
+ {
+   "title": "Demented Aggression",
+   "genre": "Rock",
+   "artist": "Cannibal Corpse",
+   "duration": 30.015,
+   "filename": "demented-aggression.m4r"
+ },
+ {
+   "title": "Despicable freestyle",
+   "genre": "Rap",
+   "artist": "Eminem",
+   "duration": 29.988,
+   "filename": "despicable-freestyle.m4r"
+ },
+ {
+   "title": "Destination Unknown",
+   "genre": "House",
+   "artist": "Alex Gaudino",
+   "duration": 29.989,
+   "filename": "destination-unknown.m4r"
+ },
+ {
+   "title": "Detras De Mi Ventana",
+   "genre": "Latin",
+   "artist": "Jenni Rivera",
+   "duration": 30.015,
+   "filename": "detras-de-mi-ventana.m4r"
+ },
+ {
+   "title": "Deuces featuring Tyga & Kevin McCall - Explicit Version",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Chris Brown",
+   "duration": 29.989,
+   "filename": "deuces-featuring-tyga-kevin-mccall-explicit-ve.m4r"
+ },
+ {
+   "title": "Dhoom 2  Dil Laga Na [HD]  BOLLYWOOD",
+   "genre": "Bollywood",
+   "artist": "Dil Laga Na",
+   "duration": 30.015,
+   "filename": "dhoom-2-dil-laga-na-hd-bollywood.m4r"
+ },
+ {
+   "title": "Diamonds",
+   "genre": "Pop",
+   "artist": "Rihanna",
+   "duration": 30,
+   "filename": "diamonds.m4r"
+ },
+ {
+   "title": "Diced Pineapples",
+   "genre": "Hip Hop",
+   "artist": "Rick Ross",
+   "duration": 30.015,
+   "filename": "diced-pineapples.m4r"
+ },
+ {
+   "title": "Die Young",
+   "genre": "Pop",
+   "artist": "Ke$ha",
+   "duration": 29.989,
+   "filename": "die-young.m4r"
+ },
+ {
+   "title": "Dirty Bass (Electro-Trap Version)",
+   "genre": "Pop",
+   "artist": "Far East Movement feat. Tyga",
+   "duration": 30,
+   "filename": "dirty-bass-electro-trap-version.m4r"
+ },
+ {
+   "title": "Do It Like You",
+   "genre": "R & B",
+   "artist": "Diggy",
+   "duration": 30.015,
+   "filename": "do-it-like-you.m4r"
+ },
+ {
+   "title": "Do it Like You (Feat. Jeremih) (CDQ)",
+   "genre": "Hip Hop",
+   "artist": "Diggy Simmons",
+   "duration": 29.989,
+   "filename": "do-it-like-you-feat-jeremih-cdq.m4r"
+ },
+ {
+   "title": "Do You",
+   "genre": "R & B",
+   "artist": "Miguel",
+   "duration": 30.015,
+   "filename": "do-you.m4r"
+ },
+ {
+   "title": "Do Your Thing",
+   "genre": "Rock",
+   "artist": "Powerman 5000",
+   "duration": 17.589,
+   "filename": "do-your-thing.m4r"
+ },
+ {
+   "title": "Doctor\\\\\\'s Orders",
+   "genre": "Other",
+   "artist": "Carol Douglas",
+   "duration": 29.989,
+   "filename": "doctors-orders.m4r"
+ },
+ {
+   "title": "Domino",
+   "genre": "Pop",
+   "artist": "Jessie J",
+   "duration": 29.989,
+   "filename": "domino.m4r"
+ },
+ {
+   "title": "Donna the Prima Donna",
+   "genre": "Rock",
+   "artist": "Dion",
+   "duration": 30.015,
+   "filename": "donna-the-prima-donna.m4r"
+ },
+ {
+   "title": "Don\\\\\\'t",
+   "genre": "Pop",
+   "artist": "Bryson Tiller",
+   "duration": 30,
+   "filename": "dont.m4r"
+ },
+ {
+   "title": "Don\\'t answer the door (parts one & two)",
+   "genre": "Blues",
+   "artist": "BB King",
+   "duration": 30.015,
+   "filename": "dont-answer-the-door-parts-one-two.m4r"
+ },
+ {
+   "title": "Don\\\\\\'t Drop That",
+   "genre": "Hip Hop",
+   "artist": "Finnaticz",
+   "duration": 30.015,
+   "filename": "dont-drop-that.m4r"
+ },
+ {
+   "title": "Don\\\\\\'t Say",
+   "genre": "Alternative",
+   "artist": "Scars On 45",
+   "duration": 23.014,
+   "filename": "dont-say.m4r"
+ },
+ {
+   "title": "Don\\\\\\'t Stop Movin Baby",
+   "genre": "Dance",
+   "artist": "Dj Mix Master",
+   "duration": 29.989,
+   "filename": "dont-stop-movin-baby.m4r"
+ },
+ {
+   "title": "Dont Stop The Party",
+   "genre": "Pop",
+   "artist": "Pitbull",
+   "duration": 29.989,
+   "filename": "dont-stop-the-party.m4r"
+ },
+ {
+   "title": "Dont Stop Till You Get Enough",
+   "genre": "Disco",
+   "artist": "Michael Jackson",
+   "duration": 30.015,
+   "filename": "dont-stop-till-you-get-enough.m4r"
+ },
+ {
+   "title": "Don\\\\\\'t take it personal",
+   "genre": "R & B",
+   "artist": "Jermaine Jackson",
+   "duration": 29.989,
+   "filename": "dont-take-it-personal.m4r"
+ },
+ {
+   "title": "Don\\\\\\'t Tell Em",
+   "genre": "Hip-Hop",
+   "artist": "Jeremih Feat. Yg",
+   "duration": 27.516,
+   "filename": "dont-tell-em.m4r"
+ },
+ {
+   "title": "Dont Wake Me Up",
+   "genre": "Pop",
+   "artist": "Chris Brown",
+   "duration": 29.989,
+   "filename": "dont-wake-me-up.m4r"
+ },
+ {
+   "title": "Don\\\\\\'t You Worry Child",
+   "genre": "Dance",
+   "artist": "Swedish House Mafia",
+   "duration": 30,
+   "filename": "dont-you-worry-child.m4r"
+ },
+ {
+   "title": "Down to the River to Pray",
+   "genre": "Soundtrack",
+   "artist": "Soggy Bottom Boys",
+   "duration": 29.989,
+   "filename": "down-to-the-river-to-pray.m4r"
+ },
+ {
+   "title": "Down with the Sickness",
+   "genre": "Metal",
+   "artist": "Disturbed",
+   "duration": 30.015,
+   "filename": "down-with-the-sickness.m4r"
+ },
+ {
+   "title": "Drank in my Cup",
+   "genre": "Hip Hop",
+   "artist": "Kirko Bangz",
+   "duration": 29.989,
+   "filename": "drank-in-my-cup.m4r"
+ },
+ {
+   "title": "Dream On",
+   "genre": "TV & Movies",
+   "artist": "Glee Cast",
+   "duration": 30.015,
+   "filename": "dream-on.m4r"
+ },
+ {
+   "title": "Drink in My Hand",
+   "genre": "Country",
+   "artist": "Eric Church",
+   "duration": 29.989,
+   "filename": "drink-in-my-hand.m4r"
+ },
+ {
+   "title": "Drink On It",
+   "genre": "Country",
+   "artist": "Blake Shelton",
+   "duration": 18.024,
+   "filename": "drink-on-it.m4r"
+ },
+ {
+   "title": "Drive By",
+   "genre": "Pop",
+   "artist": "Train",
+   "duration": 30.015,
+   "filename": "drive-by.m4r"
+ },
+ {
+   "title": "Drop It Low",
+   "genre": "Dance",
+   "artist": "Kat DeLuna",
+   "duration": 29.982,
+   "filename": "drop-it-low.m4r"
+ },
+ {
+   "title": "Drunk On You",
+   "genre": "Country",
+   "artist": "Luke Bryan",
+   "duration": 30.015,
+   "filename": "drunk-on-you.m4r"
+ },
+ {
+   "title": "Dueces",
+   "genre": "R & B",
+   "artist": "Chris Brown & Tyga Ft. Kevin McCall",
+   "duration": 30.015,
+   "filename": "dueces.m4r"
+ },
+ {
+   "title": "Earl Thomas Conley",
+   "genre": "Country",
+   "artist": "earl thomas conley",
+   "duration": 29.962,
+   "filename": "earl-thomas-conley.m4r"
+ },
+ {
+   "title": "Earned It (Fifty Shades Of Grey)",
+   "genre": "R & B",
+   "artist": "The Weeknd",
+   "duration": 30.015,
+   "filename": "earned-it-fifty-shades-of-grey.m4r"
+ },
+ {
+   "title": "Earned It (Fifty Shades Of Grey) - From The",
+   "genre": "Pop",
+   "artist": "The Weeknd",
+   "duration": 29.989,
+   "filename": "earned-it-fifty-shades-of-grey-from-the.m4r"
+ },
+ {
+   "title": "Easy (feat. Natasha Beddingfield)",
+   "genre": "Country",
+   "artist": "Rascal Flatts",
+   "duration": 29.989,
+   "filename": "easy-feat-natasha-beddingfield.m4r"
+ },
+ {
+   "title": "EAT HIM",
+   "genre": "Annoying",
+   "artist": "Annoying Ringtone",
+   "duration": 29.989,
+   "filename": "eat-him.m4r"
+ },
+ {
+   "title": "Education Connection",
+   "genre": "TV & Movies",
+   "artist": "Generic",
+   "duration": 30.015,
+   "filename": "education-connection.m4r"
+ },
+ {
+   "title": "Ein Schoner Tag (Gotterdammerung Mix)",
+   "genre": "Electronica",
+   "artist": "Schiller",
+   "duration": 30.015,
+   "filename": "ein-schoner-tag-gotterdammerung-mix.m4r"
+ },
+ {
+   "title": "Electric dreams",
+   "genre": "Disco",
+   "artist": "Giorgio Moroder",
+   "duration": 25.958,
+   "filename": "electric-dreams.m4r"
+ },
+ {
+   "title": "Enough Of No Love",
+   "genre": "R & B",
+   "artist": "Keyshia Cole",
+   "duration": 29.989,
+   "filename": "enough-of-no-love.m4r"
+ },
+ {
+   "title": "Enough Of No Love (Feat. Lil\\\\\\' Wayne)",
+   "genre": "R & B",
+   "artist": "Keyshia Cole",
+   "duration": 29.92,
+   "filename": "enough-of-no-love-feat-lil-wayne.m4r"
+ },
+ {
+   "title": "EPIC NEW SONG You Don\\\\\\'t Know(featuring A. Wale)INNOVATIVE HOT NEW RNB 2015",
+   "genre": "R & B",
+   "artist": "Tank",
+   "duration": 29.989,
+   "filename": "epic-new-song-you-dont-knowfeaturing-a-walein.m4r"
+ },
+ {
+   "title": "Europa (Earth\\\\\\'s Cry Heaven\\\\\\'s Smile)",
+   "genre": "Other",
+   "artist": "Santana",
+   "duration": 29.989,
+   "filename": "europa-earths-cry-heavens-smile.m4r"
+ },
+ {
+   "title": "Even If She Falls",
+   "genre": "Rock",
+   "artist": "Blink-182",
+   "duration": 28.003,
+   "filename": "even-if-she-falls.m4r"
+ },
+ {
+   "title": "Every Storm",
+   "genre": "Country",
+   "artist": "Gary Allan",
+   "duration": 30.015,
+   "filename": "every-storm.m4r"
+ },
+ {
+   "title": "Everybody Talks",
+   "genre": "Alternative",
+   "artist": "Neon Trees",
+   "duration": 24.425,
+   "filename": "everybody-talks.m4r"
+ },
+ {
+   "title": "Everything To You",
+   "genre": "Country",
+   "artist": "Jimmy Robbins",
+   "duration": 21.002,
+   "filename": "everything-to-you.m4r"
+ },
+ {
+   "title": "Ex\\\\\\'s & Oh\\\\\\'s",
+   "genre": "Pop",
+   "artist": "Elle King",
+   "duration": 30.015,
+   "filename": "exs-ohs.m4r"
+ },
+ {
+   "title": "Eyes Open",
+   "genre": "Soundtrack",
+   "artist": "Taylor swift",
+   "duration": 29.022,
+   "filename": "eyes-open.m4r"
+ },
+ {
+   "title": "Fade",
+   "genre": "Alternative",
+   "artist": "Staind",
+   "duration": 29.946,
+   "filename": "fade.m4r"
+ },
+ {
+   "title": "Faded",
+   "genre": "Hip Hop",
+   "artist": "Tyga",
+   "duration": 29.989,
+   "filename": "faded.m4r"
+ },
+ {
+   "title": "Fading",
+   "genre": "Rock",
+   "artist": "Decyfer Down",
+   "duration": 30.867,
+   "filename": "fading.m4r"
+ },
+ {
+   "title": "Faithfully",
+   "genre": "Rock",
+   "artist": "Journey",
+   "duration": 30.508,
+   "filename": "faithfully.m4r"
+ },
+ {
+   "title": "Faithfully1",
+   "genre": "Rock",
+   "artist": "Journey",
+   "duration": 26.843,
+   "filename": "faithfully1.m4r"
+ },
+ {
+   "title": "Fame",
+   "genre": "Pop",
+   "artist": "Amber Rose",
+   "duration": 29.989,
+   "filename": "fame.m4r"
+ },
+ {
+   "title": "Fast Lane",
+   "genre": "Hip Hop",
+   "artist": "Eminem ft Royce Da 5\\'9",
+   "duration": 29.989,
+   "filename": "fast-lane.m4r"
+ },
+ {
+   "title": "Favorite Girl",
+   "genre": "Pop",
+   "artist": "Justin Bieber",
+   "duration": 30.015,
+   "filename": "favorite-girl.m4r"
+ },
+ {
+   "title": "Feel This Moment",
+   "genre": "Dance",
+   "artist": "Pitbull",
+   "duration": 29.989,
+   "filename": "feel-this-moment.m4r"
+ },
+ {
+   "title": "Ferrari",
+   "genre": "Advertisment",
+   "artist": "Xavier Saer",
+   "duration": 4.023,
+   "filename": "ferrari.m4r"
+ },
+ {
+   "title": "Fight Night",
+   "genre": "Rap",
+   "artist": "Migos",
+   "duration": 30.178,
+   "filename": "fight-night.m4r"
+ },
+ {
+   "title": "Fuckin Problem Instrumental",
+   "genre": "Hip-Hop",
+   "artist": "A$AP Rocky",
+   "duration": 29.989,
+   "filename": "fin-problem-instrumental.m4r"
+ },
+ {
+   "title": "Finally Found You",
+   "genre": "Pop",
+   "artist": "Enrique Iglesias",
+   "duration": 30.015,
+   "filename": "finally-found-you.m4r"
+ },
+ {
+   "title": "fucking ringing",
+   "genre": "Annoying",
+   "artist": "bob",
+   "duration": 8.02,
+   "filename": "fing-ringing.m4r"
+ },
+ {
+   "title": "Fire Engine",
+   "genre": "Annoying",
+   "artist": "Annoying Ringtone",
+   "duration": 18,
+   "filename": "fire-engine.m4r"
+ },
+ {
+   "title": "Firework",
+   "genre": "TV & Movies",
+   "artist": "Glee Cast",
+   "duration": 29.989,
+   "filename": "firework.m4r"
+ },
+ {
+   "title": "First of the Month",
+   "genre": "Hip Hop",
+   "artist": "Bone Thugs-N-Harmony",
+   "duration": 30.015,
+   "filename": "first-of-the-month.m4r"
+ },
+ {
+   "title": "fix you",
+   "genre": "Other",
+   "artist": "coldplay",
+   "duration": 27.977,
+   "filename": "fix-you.m4r"
+ },
+ {
+   "title": "Fly Over States",
+   "genre": "Country",
+   "artist": "Jason Aldean",
+   "duration": 36.867,
+   "filename": "fly-over-states.m4r"
+ },
+ {
+   "title": "Fool For You",
+   "genre": "R & B",
+   "artist": "Cee-Lo Green",
+   "duration": 29.989,
+   "filename": "fool-for-you.m4r"
+ },
+ {
+   "title": "For the Love of Money",
+   "genre": "Hip Hop",
+   "artist": "Bone Thugs-N-Harmony/Eazy-E",
+   "duration": 29.989,
+   "filename": "for-the-love-of-money.m4r"
+ },
+ {
+   "title": "For You",
+   "genre": "Country",
+   "artist": "Keith Urban",
+   "duration": 29.989,
+   "filename": "for-you.m4r"
+ },
+ {
+   "title": "Forever",
+   "genre": "Dance",
+   "artist": "Fred Everything",
+   "duration": 30.015,
+   "filename": "forever.m4r"
+ },
+ {
+   "title": "Forever Love",
+   "genre": "Pop",
+   "artist": "Robin Thicke",
+   "duration": 29.989,
+   "filename": "forever-love.m4r"
+ },
+ {
+   "title": "Forget You",
+   "genre": "R & B",
+   "artist": "Cee Lo Green",
+   "duration": 30.015,
+   "filename": "forget-you.m4r"
+ },
+ {
+   "title": "Forgiven",
+   "genre": "Rock",
+   "artist": "Skillet",
+   "duration": 28.391,
+   "filename": "forgiven.m4r"
+ },
+ {
+   "title": "Formation",
+   "genre": "Pop",
+   "artist": "Beyoncé",
+   "duration": 29.989,
+   "filename": "formation.m4r"
+ },
+ {
+   "title": "Fortunate Son (begining)",
+   "genre": "Rock",
+   "artist": "Creedence Clearwater Revival",
+   "duration": 14.002,
+   "filename": "fortunate-son-begining.m4r"
+ },
+ {
+   "title": "FOXX-GOLD MOUTH DAWG",
+   "genre": "Other",
+   "artist": "Foxx?",
+   "duration": 29.989,
+   "filename": "foxx-gold-mouth-dawg.m4r"
+ },
+ {
+   "title": "Freaky Girl",
+   "genre": "Hip Hop",
+   "artist": "Gucci Mane",
+   "duration": 29.989,
+   "filename": "freaky-girl.m4r"
+ },
+ {
+   "title": "Freedom",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 29.989,
+   "filename": "freedom.m4r"
+ },
+ {
+   "title": "FRGT_10",
+   "genre": "Alternative",
+   "artist": "Linkin Park",
+   "duration": 29.022,
+   "filename": "frgt10.m4r"
+ },
+ {
+   "title": "From the Heart",
+   "genre": "House",
+   "artist": "Armin van Buuren/System F",
+   "duration": 30.015,
+   "filename": "from-the-heart.m4r"
+ },
+ {
+   "title": "Function",
+   "genre": "Hip Hop",
+   "artist": "E-40",
+   "duration": 30.015,
+   "filename": "function.m4r"
+ },
+ {
+   "title": "Funky Jazz Party",
+   "genre": "Jazz",
+   "artist": "Brian Culbertson",
+   "duration": 29.989,
+   "filename": "funky-jazz-party.m4r"
+ },
+ {
+   "title": "Funky Stuff",
+   "genre": "House",
+   "artist": "Jay–J & Chris Lum",
+   "duration": 30.015,
+   "filename": "funky-stuff.m4r"
+ },
+ {
+   "title": "Funky Town",
+   "genre": "Disco",
+   "artist": "Gloria Gaynor",
+   "duration": 29.989,
+   "filename": "funky-town.m4r"
+ },
+ {
+   "title": "FutureSex LoveSounds",
+   "genre": "Pop",
+   "artist": "Justin Timberlake",
+   "duration": 29.989,
+   "filename": "futuresex-lovesounds.m4r"
+ },
+ {
+   "title": "Gangnam Style",
+   "genre": "Dance",
+   "artist": "PSY",
+   "duration": 29.989,
+   "filename": "gangnam-style.m4r"
+ },
+ {
+   "title": "Gangsta Party",
+   "genre": "Rap",
+   "artist": "Tupac",
+   "duration": 30.015,
+   "filename": "gangsta-party.m4r"
+ },
+ {
+   "title": "GDFR (feat. Sage the Gemini & Lookas)",
+   "genre": "Hip Hop",
+   "artist": "Flo Rida",
+   "duration": 30.015,
+   "filename": "gdfr-feat-sage-the-gemini-lookas.m4r"
+ },
+ {
+   "title": "Get Busy Living Or Get Busy Dying",
+   "genre": "Punk",
+   "artist": "Fall Out Boy",
+   "duration": 18.058,
+   "filename": "get-busy-living-or-get-busy-dying.m4r"
+ },
+ {
+   "title": "Get Down (Phonicfood Remix)",
+   "genre": "Funky",
+   "artist": "Discorados",
+   "duration": 29.989,
+   "filename": "get-down-phonicfood-remix.m4r"
+ },
+ {
+   "title": "Get Lucky",
+   "genre": "Dance",
+   "artist": "Daft Punk",
+   "duration": 30.015,
+   "filename": "get-lucky.m4r"
+ },
+ {
+   "title": "Get Your Shine On",
+   "genre": "Country",
+   "artist": "Florida-Georgia Line",
+   "duration": 25.868,
+   "filename": "get-your-shine-on.m4r"
+ },
+ {
+   "title": "Ghetto Bird",
+   "genre": "Hip Hop",
+   "artist": "Ice Cube",
+   "duration": 29.946,
+   "filename": "ghetto-bird.m4r"
+ },
+ {
+   "title": "Gin and Juice",
+   "genre": "Hip Hop",
+   "artist": "Dat Nigga Daz/Snoop Dogg",
+   "duration": 29.989,
+   "filename": "gin-and-juice.m4r"
+ },
+ {
+   "title": "Girls Love",
+   "genre": "R & B",
+   "artist": "Drake",
+   "duration": 30.015,
+   "filename": "girls-love.m4r"
+ },
+ {
+   "title": "Girls On The Dance Floor",
+   "genre": "Electronica",
+   "artist": "LMFAO",
+   "duration": 29.989,
+   "filename": "girls-on-the-dance-floor.m4r"
+ },
+ {
+   "title": "Give Me All Your Love",
+   "genre": "Pop",
+   "artist": "Madonna",
+   "duration": 27.481,
+   "filename": "give-me-all-your-love.m4r"
+ },
+ {
+   "title": "Give Your Heart a Break",
+   "genre": "Country",
+   "artist": "Demi Lovato",
+   "duration": 30.015,
+   "filename": "give-your-heart-a-break.m4r"
+ },
+ {
+   "title": "Glad You Came",
+   "genre": "Dance",
+   "artist": "The Wanted",
+   "duration": 29.34,
+   "filename": "glad-you-came.m4r"
+ },
+ {
+   "title": "Glad You Came (Radio Edit)",
+   "genre": "Pop",
+   "artist": "The Wanted",
+   "duration": 28.003,
+   "filename": "glad-you-came-radio-edit.m4r"
+ },
+ {
+   "title": "Go DJ",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "go-dj.m4r"
+ },
+ {
+   "title": "Go Get It",
+   "genre": "Gospel",
+   "artist": "Mary Mary",
+   "duration": 29.989,
+   "filename": "go-get-it.m4r"
+ },
+ {
+   "title": "Go Girl",
+   "genre": "Reggaeton",
+   "artist": "Pitbull Feat Trina",
+   "duration": 29.989,
+   "filename": "go-girl.m4r"
+ },
+ {
+   "title": "Go to Sleep You Little Baby",
+   "genre": "Other",
+   "artist": "Soggy Bottom Boys",
+   "duration": 27.011,
+   "filename": "go-to-sleep-you-little-baby.m4r"
+ },
+ {
+   "title": "Go West",
+   "genre": "Disco",
+   "artist": "Village People",
+   "duration": 29.022,
+   "filename": "go-west.m4r"
+ },
+ {
+   "title": "God Gave Me You",
+   "genre": "Country",
+   "artist": "Blake Shelton",
+   "duration": 30.015,
+   "filename": "god-gave-me-you.m4r"
+ },
+ {
+   "title": "Gold On The Ceiling",
+   "genre": "Pop",
+   "artist": "The Black Keys",
+   "duration": 30.015,
+   "filename": "gold-on-the-ceiling.m4r"
+ },
+ {
+   "title": "Gone Already",
+   "genre": "R & B",
+   "artist": "Faith Evans",
+   "duration": 29.989,
+   "filename": "gone-already.m4r"
+ },
+ {
+   "title": "Good Enough",
+   "genre": "R & B",
+   "artist": "Jussie Smollett",
+   "duration": 29.989,
+   "filename": "good-enough.m4r"
+ },
+ {
+   "title": "Good Feeling",
+   "genre": "Hip Hop",
+   "artist": "Flo Rida",
+   "duration": 29.989,
+   "filename": "good-feeling.m4r"
+ },
+ {
+   "title": "Good for You",
+   "genre": "R & B",
+   "artist": "Selena Gomez",
+   "duration": 30.015,
+   "filename": "good-for-you.m4r"
+ },
+ {
+   "title": "Good Girl",
+   "genre": "Country",
+   "artist": "Carrie Underwood",
+   "duration": 30.015,
+   "filename": "good-girl.m4r"
+ },
+ {
+   "title": "Good Kush",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 29.944,
+   "filename": "good-kush.m4r"
+ },
+ {
+   "title": "Good Life",
+   "genre": "Pop",
+   "artist": "OneRepublic",
+   "duration": 29.989,
+   "filename": "good-life.m4r"
+ },
+ {
+   "title": "Good Time",
+   "genre": "Pop",
+   "artist": "Owl City",
+   "duration": 29.989,
+   "filename": "good-time.m4r"
+ },
+ {
+   "title": "Goodbye Horses",
+   "genre": "Disco",
+   "artist": "Q. Lazarus",
+   "duration": 29.992,
+   "filename": "goodbye-horses.m4r"
+ },
+ {
+   "title": "Gospel - Songs 4 Worship - Bob Fitts - I Will Praise Your Name(1)",
+   "genre": "Gospel",
+   "artist": "Bob Fitts",
+   "duration": 29.989,
+   "filename": "gospel-songs-4-worship-bob-fitts-i-will-prai.m4r"
+ },
+ {
+   "title": "Got You Where I Want You",
+   "genre": "Alternative",
+   "artist": "The Flys",
+   "duration": 30.015,
+   "filename": "got-you-where-i-want-you.m4r"
+ },
+ {
+   "title": "Gotta Have It",
+   "genre": "Hip Hop",
+   "artist": "Jay-Z & Kanye West",
+   "duration": 46.937,
+   "filename": "gotta-have-it.m4r"
+ },
+ {
+   "title": "Green Ranger",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 28.003,
+   "filename": "green-ranger.m4r"
+ },
+ {
+   "title": "Grenade",
+   "genre": "Rock",
+   "artist": "Bruno Mars",
+   "duration": 29.989,
+   "filename": "grenade.m4r"
+ },
+ {
+   "title": "Grenade (Main)",
+   "genre": "Pop",
+   "artist": "Bruno Mars",
+   "duration": 29.989,
+   "filename": "grenade-main.m4r"
+ },
+ {
+   "title": "Guap",
+   "genre": "Hip Hop",
+   "artist": "Big Sean",
+   "duration": 30.015,
+   "filename": "guap.m4r"
+ },
+ {
+   "title": "Gucci Gucci (Kreayshawn Cover)",
+   "genre": "Hip Hop",
+   "artist": "Neon Hitch",
+   "duration": 30.015,
+   "filename": "gucci-gucci-kreayshawn-cover.m4r"
+ },
+ {
+   "title": "Guts",
+   "genre": "Pop-Punk",
+   "artist": "All Time Low",
+   "duration": 11.99,
+   "filename": "guts.m4r"
+ },
+ {
+   "title": "Hair",
+   "genre": "Pop",
+   "artist": "Lady Gaga",
+   "duration": 29.989,
+   "filename": "hair.m4r"
+ },
+ {
+   "title": "Hall of Fame",
+   "genre": "Pop",
+   "artist": "The Script",
+   "duration": 29.962,
+   "filename": "hall-of-fame.m4r"
+ },
+ {
+   "title": "Happy",
+   "genre": "R & B",
+   "artist": "Pharrell Williams",
+   "duration": 30.015,
+   "filename": "happy.m4r"
+ },
+ {
+   "title": "Hard to Love",
+   "genre": "Country",
+   "artist": "Lee Brice",
+   "duration": 29.989,
+   "filename": "hard-to-love.m4r"
+ },
+ {
+   "title": "Hard White",
+   "genre": "Hip Hop",
+   "artist": "Yelawolf/T.I. & Slaughterhouse",
+   "duration": 24.999,
+   "filename": "hard-white.m4r"
+ },
+ {
+   "title": "Hardknock Life",
+   "genre": "Hip Hop",
+   "artist": "Jay-Z",
+   "duration": 29.989,
+   "filename": "hardknock-life.m4r"
+ },
+ {
+   "title": "Harlem Shake",
+   "genre": "Electronica",
+   "artist": "Baauer",
+   "duration": 30.015,
+   "filename": "harlem-shake.m4r"
+ },
+ {
+   "title": "Harmless",
+   "genre": "Other",
+   "artist": "Coldplay",
+   "duration": 26.018,
+   "filename": "harmless.m4r"
+ },
+ {
+   "title": "Hatafutte Parade",
+   "genre": "Other",
+   "artist": "Daisuke Namikawa",
+   "duration": 30.437,
+   "filename": "hatafutte-parade.m4r"
+ },
+ {
+   "title": "Hate It Or Love It",
+   "genre": "Rap",
+   "artist": "The Game",
+   "duration": 31.313,
+   "filename": "hate-it-or-love-it.m4r"
+ },
+ {
+   "title": "Hats Off to the Bull",
+   "genre": "Rock",
+   "artist": "Chevelle",
+   "duration": 29.989,
+   "filename": "hats-off-to-the-bull.m4r"
+ },
+ {
+   "title": "Have Faith In Me",
+   "genre": "Rock",
+   "artist": "A Day To Remember",
+   "duration": 28.448,
+   "filename": "have-faith-in-me.m4r"
+ },
+ {
+   "title": "Hear Me Now",
+   "genre": "Rock",
+   "artist": "Framing Hanley",
+   "duration": 29.989,
+   "filename": "hear-me-now.m4r"
+ },
+ {
+   "title": "Hear My Call",
+   "genre": "R & B",
+   "artist": "Jill Scott",
+   "duration": 30.015,
+   "filename": "hear-my-call.m4r"
+ },
+ {
+   "title": "Heart Attack",
+   "genre": "R & B",
+   "artist": "Trey Songz",
+   "duration": 30.015,
+   "filename": "heart-attack.m4r"
+ },
+ {
+   "title": "Heartbeat Song",
+   "genre": "Pop",
+   "artist": "Kelly Clarkson",
+   "duration": 29.989,
+   "filename": "heartbeat-song.m4r"
+ },
+ {
+   "title": "Heaven Beside You",
+   "genre": "Alternative",
+   "artist": "Alice in Chains",
+   "duration": 29.989,
+   "filename": "heaven-beside-you.m4r"
+ },
+ {
+   "title": "Heisman part2",
+   "genre": "Hip Hop",
+   "artist": "Tyga & Honey Cocaine",
+   "duration": 28.996,
+   "filename": "heisman-part2.m4r"
+ },
+ {
+   "title": "Hello",
+   "genre": "R & B",
+   "artist": "Adele",
+   "duration": 30.015,
+   "filename": "hello.m4r"
+ },
+ {
+   "title": "Hello Joe\\\\\\'s cover",
+   "genre": "R & B",
+   "artist": "Joe Thomas",
+   "duration": 30.015,
+   "filename": "hello-joes-cover.m4r"
+ },
+ {
+   "title": "Hell\\\\\\'s Bells",
+   "genre": "Country",
+   "artist": "Cary Ann Hearst",
+   "duration": 30.015,
+   "filename": "hells-bells.m4r"
+ },
+ {
+   "title": "Help",
+   "genre": "Gospel",
+   "artist": "Erica Campell",
+   "duration": 30.015,
+   "filename": "help.m4r"
+ },
+ {
+   "title": "Here",
+   "genre": "R & B",
+   "artist": "Alessia Cara",
+   "duration": 29.989,
+   "filename": "here.m4r"
+ },
+ {
+   "title": "Here and Now",
+   "genre": "R & B",
+   "artist": "Luther Vandross",
+   "duration": 29.989,
+   "filename": "here-and-now.m4r"
+ },
+ {
+   "title": "Hey Stoopid",
+   "genre": "Rock",
+   "artist": "Alice Cooper",
+   "duration": 30.015,
+   "filename": "hey-stoopid.m4r"
+ },
+ {
+   "title": "Hicktown",
+   "genre": "Country",
+   "artist": "Jason Aldean",
+   "duration": 24.999,
+   "filename": "hicktown.m4r"
+ },
+ {
+   "title": "Higher (Main Remix)",
+   "genre": "Pop",
+   "artist": "Taio Cruz Ft. Travie McCoy",
+   "duration": 29.989,
+   "filename": "higher-main-remix.m4r"
+ },
+ {
+   "title": "Ho Hey",
+   "genre": "Alternative",
+   "artist": "The Lumineers",
+   "duration": 19.017,
+   "filename": "ho-hey.m4r"
+ },
+ {
+   "title": "Hold Me Back",
+   "genre": "Hip Hop",
+   "artist": "Rick Ross",
+   "duration": 29.989,
+   "filename": "hold-me-back.m4r"
+ },
+ {
+   "title": "Hold My Hand",
+   "genre": "Pop",
+   "artist": "Jess Glynne",
+   "duration": 29.989,
+   "filename": "hold-my-hand.m4r"
+ },
+ {
+   "title": "Hold On, We\\\\\\'re Going Home",
+   "genre": "R & B",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "hold-on-were-going-home.m4r"
+ },
+ {
+   "title": "Hold Up",
+   "genre": "Hip Hop",
+   "artist": "Cash Out",
+   "duration": 29.989,
+   "filename": "hold-up.m4r"
+ },
+ {
+   "title": "Hold You Down (feat. Chris Brown, August Alsina, Future & Jeremih) [Explicit]",
+   "genre": "R & B",
+   "artist": "DJ Khaled",
+   "duration": 29.989,
+   "filename": "hold-you-down-feat-chris-brown-august-alsina-f.m4r"
+ },
+ {
+   "title": "Holocene",
+   "genre": "Country",
+   "artist": "Bon Iver",
+   "duration": 30.015,
+   "filename": "holocene.m4r"
+ },
+ {
+   "title": "Holy Grail",
+   "genre": "Hip Hop",
+   "artist": "Jay Z",
+   "duration": 29.963,
+   "filename": "holy-grail.m4r"
+ },
+ {
+   "title": "Homesick",
+   "genre": "Rock",
+   "artist": "A Day To Remember",
+   "duration": 32.691,
+   "filename": "homesick.m4r"
+ },
+ {
+   "title": "Honeymoon Ki Raat - www.Songs.PK",
+   "genre": "Disco",
+   "artist": "Sunidhi Chauhan",
+   "duration": 30.461,
+   "filename": "honeymoon-ki-raat-wwwsongspk.m4r"
+ },
+ {
+   "title": "Hood Nigga",
+   "genre": "Hip Hop",
+   "artist": "Gorilla Zoe",
+   "duration": 29.989,
+   "filename": "hood-nigg.m4r"
+ },
+ {
+   "title": "Hood Rich (Ft. Gucci Mane, Waka Flocka)",
+   "genre": "Rap",
+   "artist": "2 Chainz & Future",
+   "duration": 28.003,
+   "filename": "hood-rich-ft-gucci-mane-waka-flocka.m4r"
+ },
+ {
+   "title": "Hookah",
+   "genre": "Hip Hop",
+   "artist": "Tyga feat. Young Thug",
+   "duration": 29.989,
+   "filename": "hookah.m4r"
+ },
+ {
+   "title": "Hotline Bling",
+   "genre": "Rap",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "hotline-bling.m4r"
+ },
+ {
+   "title": "House Music",
+   "genre": "Dance",
+   "artist": "Dj Mix Master",
+   "duration": 29.022,
+   "filename": "house-music.m4r"
+ },
+ {
+   "title": "How To Love",
+   "genre": "R & B",
+   "artist": "Lil Wayne",
+   "duration": 26.773,
+   "filename": "how-to-love.m4r"
+ },
+ {
+   "title": "How We Do (Party)",
+   "genre": "Pop",
+   "artist": "Rita Ora",
+   "duration": 29.022,
+   "filename": "how-we-do-party.m4r"
+ },
+ {
+   "title": "Human Nature",
+   "genre": "R & B",
+   "artist": "Michael Jackson",
+   "duration": 30.015,
+   "filename": "human-nature.m4r"
+ },
+ {
+   "title": "Hummingbird",
+   "genre": "Blues",
+   "artist": "BB King",
+   "duration": 30.015,
+   "filename": "hummingbird.m4r"
+ },
+ {
+   "title": "Hurt You",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Toni braxton & Baby face",
+   "duration": 30.015,
+   "filename": "hurt-you.m4r"
+ },
+ {
+   "title": "Hustle Hard",
+   "genre": "Hip Hop",
+   "artist": "Ace Hood",
+   "duration": 29.989,
+   "filename": "hustle-hard.m4r"
+ },
+ {
+   "title": "HYFR",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 30,
+   "filename": "hyfr.m4r"
+ },
+ {
+   "title": "HYFR (Hell Ya Fuckin\\\\\\' Right)",
+   "genre": "Hip Hop",
+   "artist": "Drake feat. Lil\\' Wayne",
+   "duration": 30.015,
+   "filename": "hyfr-hell-ya-fin-right.m4r"
+ },
+ {
+   "title": "i am in love",
+   "genre": "Bollywood",
+   "artist": "Bollywood",
+   "duration": 30.015,
+   "filename": "i-am-in-love.m4r"
+ },
+ {
+   "title": "I Call Your Name",
+   "genre": "R & B",
+   "artist": "Switch",
+   "duration": 29.97,
+   "filename": "i-call-your-name.m4r"
+ },
+ {
+   "title": "I Can Only Imagine",
+   "genre": "Electronica",
+   "artist": "David Guetta ft. Chris Brown & Lil Wayne",
+   "duration": 29.989,
+   "filename": "i-can-only-imagine.m4r"
+ },
+ {
+   "title": "i cant stop",
+   "genre": "Funky",
+   "artist": "me",
+   "duration": 30.015,
+   "filename": "i-cant-stop.m4r"
+ },
+ {
+   "title": "I Can\\\\\\'t Wait (RIOT 87 Remix)",
+   "genre": "Electronica",
+   "artist": "Celldweller",
+   "duration": 30.015,
+   "filename": "i-cant-wait-riot-87-remix.m4r"
+ },
+ {
+   "title": "I Cry",
+   "genre": "Pop",
+   "artist": "Flo Rida",
+   "duration": 30.015,
+   "filename": "i-cry.m4r"
+ },
+ {
+   "title": "I Don\\\\\\'t Fuck With You (Feat. E-40)",
+   "genre": "Hip Hop",
+   "artist": "Big Sean",
+   "duration": 30.015,
+   "filename": "i-dont-fuck-with-you-feat-e-40.m4r"
+ },
+ {
+   "title": "I Don\\\\\\'t Mind (Feat. Juicy J)",
+   "genre": "R & B",
+   "artist": "Usher",
+   "duration": 35.795,
+   "filename": "i-dont-mind-feat-juicy-j.m4r"
+ },
+ {
+   "title": "I Dont Want this Night to End",
+   "genre": "Country",
+   "artist": "Luke Bryan",
+   "duration": 29.989,
+   "filename": "i-dont-want-this-night-to-end.m4r"
+ },
+ {
+   "title": "I Got It",
+   "genre": "Hip Hop",
+   "artist": "Gorilla Zoe",
+   "duration": 28.996,
+   "filename": "i-got-it.m4r"
+ },
+ {
+   "title": "I Got That",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne Ft. Gucci Mane",
+   "duration": 30.015,
+   "filename": "i-got-that.m4r"
+ },
+ {
+   "title": "I Gotta Feeling",
+   "genre": "Pop",
+   "artist": "Black Eyed Peas",
+   "duration": 29.989,
+   "filename": "i-gotta-feeling.m4r"
+ },
+ {
+   "title": "I Just Want It All",
+   "genre": "Hip Hop",
+   "artist": "Kid Ink",
+   "duration": 29.989,
+   "filename": "i-just-want-it-all.m4r"
+ },
+ {
+   "title": "I Just Want To Make Love to You",
+   "genre": "Jazz",
+   "artist": "Etta James",
+   "duration": 29.989,
+   "filename": "i-just-want-to-make-love-to-you.m4r"
+ },
+ {
+   "title": "I Kissed A Girl",
+   "genre": "Pop",
+   "artist": "Katy Perry",
+   "duration": 28.996,
+   "filename": "i-kissed-a-girl.m4r"
+ },
+ {
+   "title": "I Know",
+   "genre": "Hip Hop",
+   "artist": "yo gotti",
+   "duration": 30.015,
+   "filename": "i-know.m4r"
+ },
+ {
+   "title": "I Know What You Did Last Summer",
+   "genre": "Pop",
+   "artist": "Shawn Mendes & Camila Cabello",
+   "duration": 30.015,
+   "filename": "i-know-what-you-did-last-summer.m4r"
+ },
+ {
+   "title": "(I like) the way you\\\\\\'re loving me",
+   "genre": "R & B",
+   "artist": "Michael Jackson",
+   "duration": 29.989,
+   "filename": "i-like-the-way-youre-loving-me.m4r"
+ },
+ {
+   "title": "I Luh God (AUDIO ONLY)",
+   "genre": "Gospel",
+   "artist": "Erica Campbell",
+   "duration": 29.989,
+   "filename": "i-luh-god-audio-only.m4r"
+ },
+ {
+   "title": "I Need a Doctor",
+   "genre": "Hip Hop",
+   "artist": "Eminem",
+   "duration": 30.015,
+   "filename": "i-need-a-doctor.m4r"
+ },
+ {
+   "title": "I Run This",
+   "genre": "Hip Hop",
+   "artist": "Birdman feat. Lil\\' Wayne",
+   "duration": 35.123,
+   "filename": "i-run-this.m4r"
+ },
+ {
+   "title": "I Shake I Move",
+   "genre": "Electronica",
+   "artist": "LMFAO",
+   "duration": 29.989,
+   "filename": "i-shake-i-move.m4r"
+ },
+ {
+   "title": "I Think I Love Her",
+   "genre": "Hip Hop",
+   "artist": "Gucci Mane",
+   "duration": 30.015,
+   "filename": "i-think-i-love-her.m4r"
+ },
+ {
+   "title": "I Wanna Dance with Somebody",
+   "genre": "Pop",
+   "artist": "Whitney Houston",
+   "duration": 29.989,
+   "filename": "i-wanna-dance-with-somebody.m4r"
+ },
+ {
+   "title": "I Wanna Go",
+   "genre": "Pop",
+   "artist": "Britney Spears",
+   "duration": 30.015,
+   "filename": "i-wanna-go.m4r"
+ },
+ {
+   "title": "I Wanna Grow Old With You",
+   "genre": "Rock",
+   "artist": "Westlife",
+   "duration": 29.989,
+   "filename": "i-wanna-grow-old-with-you.m4r"
+ },
+ {
+   "title": "I wanna rock",
+   "genre": "Rock",
+   "artist": "Twisted Sister",
+   "duration": 29.022,
+   "filename": "i-wanna-rock.m4r"
+ },
+ {
+   "title": "I Will Be There",
+   "genre": "Alternative",
+   "artist": "Art Of Dying",
+   "duration": 25.992,
+   "filename": "i-will-be-there.m4r"
+ },
+ {
+   "title": "I Will Survive",
+   "genre": "Disco",
+   "artist": "Gloria Gaynor",
+   "duration": 29.016,
+   "filename": "i-will-survive.m4r"
+ },
+ {
+   "title": "I Wish",
+   "genre": "Pop",
+   "artist": "Justin Bieber",
+   "duration": 29.989,
+   "filename": "i-wish.m4r"
+ },
+ {
+   "title": "I Won\\\\\\'t Give Up",
+   "genre": "Country",
+   "artist": "Jason Mraz",
+   "duration": 29.989,
+   "filename": "i-wont-give-up.m4r"
+ },
+ {
+   "title": "Ice",
+   "genre": "R & B",
+   "artist": "Kelly Rowland",
+   "duration": 29.989,
+   "filename": "ice.m4r"
+ },
+ {
+   "title": "If I Ruled The World",
+   "genre": "Pop",
+   "artist": "Big Time Rush",
+   "duration": 29.982,
+   "filename": "if-i-ruled-the-world.m4r"
+ },
+ {
+   "title": "If You Don\\\\\\'t Know Me By Now",
+   "genre": "Rock",
+   "artist": "Simply Red",
+   "duration": 31.95,
+   "filename": "if-you-dont-know-me-by-now.m4r"
+ },
+ {
+   "title": "if you ever come back",
+   "genre": "Hip Hop",
+   "artist": "script",
+   "duration": 30.015,
+   "filename": "if-you-ever-come-back.m4r"
+ },
+ {
+   "title": "Illusion (Rollercone main mix)",
+   "genre": "House",
+   "artist": "Limbo Experience",
+   "duration": 29.989,
+   "filename": "illusion-rollercone-main-mix.m4r"
+ },
+ {
+   "title": "I\\\\\\'m A Man Od Constant Sorrow",
+   "genre": "Soundtrack",
+   "artist": "Soggy Bottom Boys",
+   "duration": 29.989,
+   "filename": "im-a-man-od-constant-sorrow.m4r"
+ },
+ {
+   "title": "I\\\\\\'M ALREADY THERE",
+   "genre": "Country",
+   "artist": "Lonestar",
+   "duration": 30.015,
+   "filename": "im-already-there.m4r"
+ },
+ {
+   "title": "I\\\\\\'m Always Here",
+   "genre": "Theme Songs",
+   "artist": "Jimi Jamison",
+   "duration": 30.015,
+   "filename": "im-always-here.m4r"
+ },
+ {
+   "title": "I\\\\\\'m Glad You\\\\\\'re Mine",
+   "genre": "R & B",
+   "artist": "Al Green",
+   "duration": 29.989,
+   "filename": "im-glad-youre-mine.m4r"
+ },
+ {
+   "title": "I\\\\\\'m into you",
+   "genre": "Pop",
+   "artist": "Jennifer Lopez",
+   "duration": 29.285,
+   "filename": "im-into-you.m4r"
+ },
+ {
+   "title": "I\\\\\\'m Not the Only One",
+   "genre": "Pop",
+   "artist": "Sam Smith",
+   "duration": 30.015,
+   "filename": "im-not-the-only-one.m4r"
+ },
+ {
+   "title": "I\\\\\\'m so glad your mine",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Al Green",
+   "duration": 29.989,
+   "filename": "im-so-glad-your-mine.m4r"
+ },
+ {
+   "title": "Imma\\\\\\' Try It Out (LUCiD\\\\\\'s Imma\\\\\\' Trap It Out Remix)",
+   "genre": "Electronica",
+   "artist": "Skrillex",
+   "duration": 29.963,
+   "filename": "imma-try-it-out-lucids-imma-trap-it-out-rem.m4r"
+ },
+ {
+   "title": "Impossible",
+   "genre": "Pop",
+   "artist": "James Arthur",
+   "duration": 31.08,
+   "filename": "impossible.m4r"
+ },
+ {
+   "title": "In Da Club",
+   "genre": "Hip Hop",
+   "artist": "50 Cent",
+   "duration": 29.989,
+   "filename": "in-da-club.m4r"
+ },
+ {
+   "title": "In Love By Now",
+   "genre": "R & B",
+   "artist": "Jamie Foxx",
+   "duration": 30.015,
+   "filename": "in-love-by-now.m4r"
+ },
+ {
+   "title": "In The Night",
+   "genre": "Pop",
+   "artist": "The Weeknd",
+   "duration": 29.989,
+   "filename": "in-the-night.m4r"
+ },
+ {
+   "title": "Inaugural Speech 2013",
+   "genre": "Other",
+   "artist": "Barack Obama",
+   "duration": 29.989,
+   "filename": "inaugural-speech-2013.m4r"
+ },
+ {
+   "title": "Inspiration Zone",
+   "genre": "House",
+   "artist": "Belladonna",
+   "duration": 29.989,
+   "filename": "inspiration-zone.m4r"
+ },
+ {
+   "title": "International Love",
+   "genre": "Hip Hop",
+   "artist": "Pitbull Ft. Chris Brown",
+   "duration": 29.989,
+   "filename": "international-love.m4r"
+ },
+ {
+   "title": "Into Your Arms",
+   "genre": "Pop",
+   "artist": "The Maine",
+   "duration": 28.206,
+   "filename": "into-your-arms.m4r"
+ },
+ {
+   "title": "Introspection [Calm\\\\\\'s Outerspect Mix]",
+   "genre": "Lounge",
+   "artist": "Jazzanova",
+   "duration": 29.989,
+   "filename": "introspection-calms-outerspect-mix.m4r"
+ },
+ {
+   "title": "Invisible",
+   "genre": "Alternative",
+   "artist": "Skylar Grey",
+   "duration": 30.015,
+   "filename": "invisible.m4r"
+ },
+ {
+   "title": "It Girl",
+   "genre": "Pop",
+   "artist": "Jason Derulo",
+   "duration": 29.989,
+   "filename": "it-girl.m4r"
+ },
+ {
+   "title": "It Will Rain",
+   "genre": "Pop",
+   "artist": "Bruno Mars",
+   "duration": 29.988,
+   "filename": "it-will-rain.m4r"
+ },
+ {
+   "title": "It Won\\\\\\'t Be Like This For Long",
+   "genre": "Country",
+   "artist": "Darius Rucker",
+   "duration": 29.989,
+   "filename": "it-wont-be-like-this-for-long.m4r"
+ },
+ {
+   "title": "It\\\\\\'s a Beautiful Life",
+   "genre": "House",
+   "artist": "Aaron Pearson/Dennis Ferrer",
+   "duration": 30.015,
+   "filename": "its-a-beautiful-life.m4r"
+ },
+ {
+   "title": "it\\\\\\'s time for the percolator",
+   "genre": "Dance",
+   "artist": "Countdown 96",
+   "duration": 29.989,
+   "filename": "its-time-for-the-percolator.m4r"
+ },
+ {
+   "title": "Itty Bitty Piggy",
+   "genre": "Rap",
+   "artist": "Nicki Minaj",
+   "duration": 29.989,
+   "filename": "itty-bitty-piggy.m4r"
+ },
+ {
+   "title": "Jammin",
+   "genre": "Reggae",
+   "artist": "Bob Marley",
+   "duration": 30.015,
+   "filename": "jammin.m4r"
+ },
+ {
+   "title": "Jaz",
+   "genre": "Bollywood",
+   "artist": "High Heels",
+   "duration": 29.989,
+   "filename": "jaz.m4r"
+ },
+ {
+   "title": "Jazz Funk",
+   "genre": "Jazz",
+   "artist": "George Benson",
+   "duration": 29.92,
+   "filename": "jazz-funk.m4r"
+ },
+ {
+   "title": "Jazzy",
+   "genre": "Jazz",
+   "artist": "Jazz Man",
+   "duration": 30.81,
+   "filename": "jazzy.m4r"
+ },
+ {
+   "title": "Jennifer Hudson",
+   "genre": "R & B",
+   "artist": "I remember me",
+   "duration": 29.989,
+   "filename": "jennifer-hudson.m4r"
+ },
+ {
+   "title": "Joanna",
+   "genre": "Dance",
+   "artist": "Allexinno & Starchild",
+   "duration": 29.022,
+   "filename": "joanna.m4r"
+ },
+ {
+   "title": "John (Feat. Rick Ross)",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 29.013,
+   "filename": "john-feat-rick-ross.m4r"
+ },
+ {
+   "title": "John Legend ft. Common",
+   "genre": "R & B",
+   "artist": "Selma",
+   "duration": 29.989,
+   "filename": "john-legend-ft-common.m4r"
+ },
+ {
+   "title": "Jumpman",
+   "genre": "Rap",
+   "artist": "Drake & Future",
+   "duration": 29.963,
+   "filename": "jumpman.m4r"
+ },
+ {
+   "title": "Just A Fool",
+   "genre": "Pop",
+   "artist": "Christina Aguilera",
+   "duration": 29.989,
+   "filename": "just-a-fool.m4r"
+ },
+ {
+   "title": "Just a Kiss",
+   "genre": "Country",
+   "artist": "Lady Antebellum",
+   "duration": 29.989,
+   "filename": "just-a-kiss.m4r"
+ },
+ {
+   "title": "Just A Lil Bit",
+   "genre": "Hip Hop",
+   "artist": "50 Cent",
+   "duration": 30.015,
+   "filename": "just-a-lil-bit.m4r"
+ },
+ {
+   "title": "Just A Little More Jesus",
+   "genre": "Gospel",
+   "artist": "Erica Campell",
+   "duration": 29.989,
+   "filename": "just-a-little-more-jesus.m4r"
+ },
+ {
+   "title": "Just Between You And Me",
+   "genre": "Rock",
+   "artist": "April Wine",
+   "duration": 28.996,
+   "filename": "just-between-you-and-me.m4r"
+ },
+ {
+   "title": "Just Give Me a Reason",
+   "genre": "R & B",
+   "artist": "Pink",
+   "duration": 29.989,
+   "filename": "just-give-me-a-reason.m4r"
+ },
+ {
+   "title": "Just Gotta Make It",
+   "genre": "R & B",
+   "artist": "Trey Songz Ft. Twista",
+   "duration": 25.992,
+   "filename": "just-gotta-make-it.m4r"
+ },
+ {
+   "title": "Just Me and You",
+   "genre": "Hip Hop",
+   "artist": "Ja Rule",
+   "duration": 29.97,
+   "filename": "just-me-and-you.m4r"
+ },
+ {
+   "title": "Just the way you are",
+   "genre": "Pop",
+   "artist": "Bruno Mars",
+   "duration": 29.989,
+   "filename": "just-the-way-you-are.m4r"
+ },
+ {
+   "title": "Just Wanna Rock N\\\\\\' Roll",
+   "genre": "Country",
+   "artist": "Rodney Atkins",
+   "duration": 30.015,
+   "filename": "just-wanna-rock-n-roll.m4r"
+ },
+ {
+   "title": "Justin Bieber - Boyfriend[www.Musicroz.org]",
+   "genre": "Alternative",
+   "artist": "Justin Bieber - Boyfriend[www.Musicroz.org]",
+   "duration": 19.992,
+   "filename": "justin-bieber-boyfriendwwwmusicrozorg.m4r"
+ },
+ {
+   "title": "Kalimba",
+   "genre": "Annoying",
+   "artist": "Mr. Scruff",
+   "duration": 29.989,
+   "filename": "kalimba.m4r"
+ },
+ {
+   "title": "Karen Ski",
+   "genre": "Hip Hop",
+   "artist": "Big Sean",
+   "duration": 17.998,
+   "filename": "karen-ski.m4r"
+ },
+ {
+   "title": "Kati Rose",
+   "genre": "Soundtrack",
+   "artist": "Barry Carl",
+   "duration": 28.003,
+   "filename": "kati-rose.m4r"
+ },
+ {
+   "title": "Keke Wyatt.wmv",
+   "genre": "R & B",
+   "artist": "Weakest",
+   "duration": 30.015,
+   "filename": "keke-wyattwmv.m4r"
+ },
+ {
+   "title": "Kill Everyone",
+   "genre": "Rock",
+   "artist": "Hollywood Undead",
+   "duration": 28.003,
+   "filename": "kill-everyone.m4r"
+ },
+ {
+   "title": "King of Hearts",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Cassie",
+   "duration": 23.439,
+   "filename": "king-of-hearts.m4r"
+ },
+ {
+   "title": "Kiss Tomorrow Goodbye",
+   "genre": "Country",
+   "artist": "Luke Bryan",
+   "duration": 30.015,
+   "filename": "kiss-tomorrow-goodbye.m4r"
+ },
+ {
+   "title": "Kiss You",
+   "genre": "Pop",
+   "artist": "One Direction",
+   "duration": 29.989,
+   "filename": "kiss-you.m4r"
+ },
+ {
+   "title": "(Kissed You) Good Night",
+   "genre": "Country",
+   "artist": "Gloriana",
+   "duration": 29.989,
+   "filename": "kissed-you-good-night.m4r"
+ },
+ {
+   "title": "Kissed You Goodnight",
+   "genre": "Country",
+   "artist": "Gloriana",
+   "duration": 39.475,
+   "filename": "kissed-you-goodnight.m4r"
+ },
+ {
+   "title": "Kissin Pink",
+   "genre": "Hip Hop",
+   "artist": "ASAP Rocky",
+   "duration": 29.989,
+   "filename": "kissin-pink.m4r"
+ },
+ {
+   "title": "Kya - Pop / R&B / Soul Artist",
+   "genre": "Latin",
+   "artist": "Kya",
+   "duration": 29.989,
+   "filename": "kya-pop-rb-soul-artist.m4r"
+ },
+ {
+   "title": "La Misma Gran Senora",
+   "genre": "Latin",
+   "artist": "Jenni Rivera",
+   "duration": 30.015,
+   "filename": "la-misma-gran-senora.m4r"
+ },
+ {
+   "title": "Last Dance",
+   "genre": "Disco",
+   "artist": "Donna Summer",
+   "duration": 29.989,
+   "filename": "last-dance.m4r"
+ },
+ {
+   "title": "Last Friday Night (T.G.I.F.)",
+   "genre": "Pop",
+   "artist": "Katy Perry",
+   "duration": 29.989,
+   "filename": "last-friday-night-tgif.m4r"
+ },
+ {
+   "title": "Latch",
+   "genre": "Hip Hop",
+   "artist": "Disclosure Feat Sam Smith",
+   "duration": 30.015,
+   "filename": "latch.m4r"
+ },
+ {
+   "title": "Lately",
+   "genre": "R & B",
+   "artist": "Anita Baker",
+   "duration": 30.015,
+   "filename": "lately.m4r"
+ },
+ {
+   "title": "Le Freak",
+   "genre": "Disco",
+   "artist": "Chic",
+   "duration": 29.946,
+   "filename": "le-freak.m4r"
+ },
+ {
+   "title": "Let It Burn",
+   "genre": "R & B",
+   "artist": "Jazmine Sullivan",
+   "duration": 30.015,
+   "filename": "let-it-burn.m4r"
+ },
+ {
+   "title": "Let Me Know ft. Future",
+   "genre": "R & B",
+   "artist": "Tamar Braxton",
+   "duration": 29.989,
+   "filename": "let-me-know-ft-future.m4r"
+ },
+ {
+   "title": "Let Me Love You",
+   "genre": "Pop",
+   "artist": "Ne-Yo",
+   "duration": 29.989,
+   "filename": "let-me-love-you.m4r"
+ },
+ {
+   "title": "Let\\\\\\'s Go",
+   "genre": "Pop",
+   "artist": "Calvin Harris",
+   "duration": 30.015,
+   "filename": "lets-go.m4r"
+ },
+ {
+   "title": "Let\\\\\\'s Make Love (Album Version)",
+   "genre": "Country",
+   "artist": "Faith Hill & Tim McGraw",
+   "duration": 25.873,
+   "filename": "lets-make-love-album-version.m4r"
+ },
+ {
+   "title": "Let\\\\\\'s Roll",
+   "genre": "Rap",
+   "artist": "Yelawolf Feat. Kid Rock",
+   "duration": 30.015,
+   "filename": "lets-roll.m4r"
+ },
+ {
+   "title": "Levels (Froland Remix)",
+   "genre": "Electronica",
+   "artist": "Avicii",
+   "duration": 30.015,
+   "filename": "levels-froland-remix.m4r"
+ },
+ {
+   "title": "Lifestyle (feat. Young Thug & Rich Homie Quan)",
+   "genre": "Hip-Hop",
+   "artist": "Rich Gang",
+   "duration": 29.989,
+   "filename": "lifestyle-feat-young-thug-rich-homie-quan.m4r"
+ },
+ {
+   "title": "Lights",
+   "genre": "Pop",
+   "artist": "Ellie Goulding",
+   "duration": 30.015,
+   "filename": "lights.m4r"
+ },
+ {
+   "title": "Like I\\\\\\'m Gonna Lose You",
+   "genre": "R & B",
+   "artist": "Meghan Trainor feat. John Leg",
+   "duration": 29.989,
+   "filename": "like-im-gonna-lose-you.m4r"
+ },
+ {
+   "title": "Like Whaaat",
+   "genre": "Rap",
+   "artist": "Problem",
+   "duration": 29.989,
+   "filename": "like-whaaat.m4r"
+ },
+ {
+   "title": "Little Talks",
+   "genre": "Rock",
+   "artist": "Of Monsters And Men",
+   "duration": 30.015,
+   "filename": "little-talks.m4r"
+ },
+ {
+   "title": "Live My Life",
+   "genre": "Dance",
+   "artist": "Far East Movement ft. Justin Bieber",
+   "duration": 29.989,
+   "filename": "live-my-life.m4r"
+ },
+ {
+   "title": "Livin\\\\\\' Our Love Song",
+   "genre": "Country",
+   "artist": "Jason Michael Carroll",
+   "duration": 29.989,
+   "filename": "livin-our-love-song.m4r"
+ },
+ {
+   "title": "Looks Like Sex",
+   "genre": "Pop",
+   "artist": "Mike Posner",
+   "duration": 29.989,
+   "filename": "looks-like-sex.m4r"
+ },
+ {
+   "title": "Lose Control",
+   "genre": "Pop",
+   "artist": "Keri Hilson",
+   "duration": 30.015,
+   "filename": "lose-control.m4r"
+ },
+ {
+   "title": "Lose to win",
+   "genre": "R & B",
+   "artist": "Fantasia",
+   "duration": 29.989,
+   "filename": "lose-to-win.m4r"
+ },
+ {
+   "title": "Loud",
+   "genre": "Hip Hop",
+   "artist": "T. Mills",
+   "duration": 30.015,
+   "filename": "loud.m4r"
+ },
+ {
+   "title": "Love After War",
+   "genre": "R & B",
+   "artist": "Robin Thicke",
+   "duration": 28.996,
+   "filename": "love-after-war.m4r"
+ },
+ {
+   "title": "Love and War",
+   "genre": "R & B",
+   "artist": "Tamar Braxton",
+   "duration": 30.015,
+   "filename": "love-and-war.m4r"
+ },
+ {
+   "title": "Love \\\\\\'Em All",
+   "genre": "R & B",
+   "artist": "K. Michelle",
+   "duration": 28.996,
+   "filename": "love-em-all.m4r"
+ },
+ {
+   "title": "Love Me",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 29.989,
+   "filename": "love-me.m4r"
+ },
+ {
+   "title": "Love Me Harder",
+   "genre": "Pop",
+   "artist": "Ariana Grande & The Weeknd",
+   "duration": 30.015,
+   "filename": "love-me-harder.m4r"
+ },
+ {
+   "title": "Love Me Like You Do",
+   "genre": "Pop",
+   "artist": "Ellie Goulding",
+   "duration": 30,
+   "filename": "love-me-like-you-do.m4r"
+ },
+ {
+   "title": "Love, Need And Want You",
+   "genre": "R & B",
+   "artist": "Patti LaBelle",
+   "duration": 29.989,
+   "filename": "love-need-and-want-you.m4r"
+ },
+ {
+   "title": "Love never felt so good",
+   "genre": "Pop",
+   "artist": "michael jackson",
+   "duration": 29.989,
+   "filename": "love-never-felt-so-good.m4r"
+ },
+ {
+   "title": "Love On Top",
+   "genre": "Pop",
+   "artist": "Beyonce",
+   "duration": 29.989,
+   "filename": "love-on-top.m4r"
+ },
+ {
+   "title": "Love This Life",
+   "genre": "Hip-Hop",
+   "artist": "T.I.",
+   "duration": 30.015,
+   "filename": "love-this-life.m4r"
+ },
+ {
+   "title": "Love Yourself",
+   "genre": "R & B",
+   "artist": "Justin Bieber",
+   "duration": 29.989,
+   "filename": "love-yourself.m4r"
+ },
+ {
+   "title": "Lover",
+   "genre": "R & B",
+   "artist": "PJ Morton",
+   "duration": 30.015,
+   "filename": "lover.m4r"
+ },
+ {
+   "title": "Love\\\\\\'s Looking For You",
+   "genre": "Country",
+   "artist": "Miranda Lambert",
+   "duration": 29.089,
+   "filename": "loves-looking-for-you.m4r"
+ },
+ {
+   "title": "Loves Theme",
+   "genre": "Disco",
+   "artist": "Barry White",
+   "duration": 29.956,
+   "filename": "loves-theme.m4r"
+ },
+ {
+   "title": "Lovin\\\\\\' You Is Fun",
+   "genre": "Country",
+   "artist": "Easton Corbin",
+   "duration": 29.989,
+   "filename": "lovin-you-is-fun.m4r"
+ },
+ {
+   "title": "Loving You",
+   "genre": "R & B",
+   "artist": "Micheal Jackson",
+   "duration": 30.015,
+   "filename": "loving-you.m4r"
+ },
+ {
+   "title": "Loyal (text message tone)",
+   "genre": "Pop",
+   "artist": "Chris Brown",
+   "duration": 3.004,
+   "filename": "loyal-text-message-tone.m4r"
+ },
+ {
+   "title": "Luffy\\\\\\'s Theme",
+   "genre": "Soundtrack",
+   "artist": "One Piece",
+   "duration": 6.008,
+   "filename": "luffys-theme.m4r"
+ },
+ {
+   "title": "Luke Bryan",
+   "genre": "Other",
+   "artist": "Drunk On You",
+   "duration": 29.989,
+   "filename": "luke-bryan.m4r"
+ },
+ {
+   "title": "Luxurious",
+   "genre": "Pop",
+   "artist": "Gwen Stefani",
+   "duration": 29.92,
+   "filename": "luxurious.m4r"
+ },
+ {
+   "title": "Magic Stick",
+   "genre": "Hip Hop",
+   "artist": "Lil Kim feat. 50 Cent",
+   "duration": 29.92,
+   "filename": "magic-stick.m4r"
+ },
+ {
+   "title": "Main Chick Feat. Chris Brown",
+   "genre": "Hip-Hop",
+   "artist": "Kid Ink",
+   "duration": 29.989,
+   "filename": "main-chick-feat-chris-brown.m4r"
+ },
+ {
+   "title": "Make It Nasty",
+   "genre": "Hip Hop",
+   "artist": "Tyga",
+   "duration": 29.989,
+   "filename": "make-it-nasty.m4r"
+ },
+ {
+   "title": "Many Men (Wish Death)",
+   "genre": "Hip Hop",
+   "artist": "50 Cent",
+   "duration": 29.989,
+   "filename": "many-men-wish-death.m4r"
+ },
+ {
+   "title": "Marry The Night",
+   "genre": "Pop",
+   "artist": "Lady Gaga",
+   "duration": 30.015,
+   "filename": "marry-the-night.m4r"
+ },
+ {
+   "title": "mayday",
+   "genre": "Alternative",
+   "artist": "mayday",
+   "duration": 26.018,
+   "filename": "mayday.m4r"
+ },
+ {
+   "title": "Me and Bobby McGee",
+   "genre": "Other",
+   "artist": "Janis Joplin",
+   "duration": 29.92,
+   "filename": "me-and-bobby-mcgee.m4r"
+ },
+ {
+   "title": "me prefieres a mi",
+   "genre": "Latin",
+   "artist": "Arcangel",
+   "duration": 29.989,
+   "filename": "me-prefieres-a-mi.m4r"
+ },
+ {
+   "title": "Meant To Be",
+   "genre": "R & B",
+   "artist": "TLC",
+   "duration": 29.989,
+   "filename": "meant-to-be.m4r"
+ },
+ {
+   "title": "Memories (Dirty)",
+   "genre": "Electronica",
+   "artist": "David Guetta Ft. Kid Cudi",
+   "duration": 29.989,
+   "filename": "memories-dirty.m4r"
+ },
+ {
+   "title": "Mercy",
+   "genre": "Hip Hop",
+   "artist": "Kanye West",
+   "duration": 29.989,
+   "filename": "mercy.m4r"
+ },
+ {
+   "title": "Mercy (Feat. Big Sean, Pusha T, & 2 Chainz)",
+   "genre": "Hip-Hop",
+   "artist": "Kanye West",
+   "duration": 29.92,
+   "filename": "mercy-feat-big-sean-pusha-t-2-chainz.m4r"
+ },
+ {
+   "title": "Midnight City",
+   "genre": "Electronica",
+   "artist": "M83",
+   "duration": 30.015,
+   "filename": "midnight-city.m4r"
+ },
+ {
+   "title": "Mind Playin\\\\\\' Tricks 94",
+   "genre": "Hip Hop",
+   "artist": "Scarface",
+   "duration": 29.944,
+   "filename": "mind-playin-tricks-94.m4r"
+ },
+ {
+   "title": "Mine",
+   "genre": "Поп, Dance, Rock, Рэп, Alternative, RnB, Indie",
+   "artist": "Bazzi",
+   "duration": 16.196,
+   "filename": "mine.m4r"
+ },
+ {
+   "title": "mississippi girl",
+   "genre": "Blues",
+   "artist": "wendell b",
+   "duration": 29.989,
+   "filename": "mississippi-girl.m4r"
+ },
+ {
+   "title": "Mo City Don Freestyle",
+   "genre": "Rap",
+   "artist": "Z-RO",
+   "duration": 30.014,
+   "filename": "mo-city-don-freestyle.m4r"
+ },
+ {
+   "title": "Mockingbird (Produced By Eminem)",
+   "genre": "Hip Hop",
+   "artist": "Eminem",
+   "duration": 26.95,
+   "filename": "mockingbird-produced-by-eminem.m4r"
+ },
+ {
+   "title": "Money Aint Shit To Me",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "money-aint-sh-to-me.m4r"
+ },
+ {
+   "title": "Money On The Floor (Feat. E-40)",
+   "genre": "Hip Hop",
+   "artist": "Too Short",
+   "duration": 66.653,
+   "filename": "money-on-the-floor-feat-e-40.m4r"
+ },
+ {
+   "title": "Money To Blow (Feat. Drake & Lil Wayne)",
+   "genre": "Hip Hop",
+   "artist": "Birdman",
+   "duration": 29.989,
+   "filename": "money-to-blow-feat-drake-lil-wayne.m4r"
+ },
+ {
+   "title": "MONICA - HURTS THE MOST",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Monica",
+   "duration": 28.996,
+   "filename": "monica-hurts-the-most.m4r"
+ },
+ {
+   "title": "Monster",
+   "genre": "Rock",
+   "artist": "Skillet",
+   "duration": 30.836,
+   "filename": "monster.m4r"
+ },
+ {
+   "title": "Moon River",
+   "genre": "TV & Movies",
+   "artist": "Henry Mancini",
+   "duration": 29.989,
+   "filename": "moon-river.m4r"
+ },
+ {
+   "title": "More Love (AUDIO ONLY)",
+   "genre": "Gospel",
+   "artist": "Erica Campbell",
+   "duration": 29.989,
+   "filename": "more-love-audio-only.m4r"
+ },
+ {
+   "title": "Mountain Sound",
+   "genre": "Alternative",
+   "artist": "Of Monsters and Men",
+   "duration": 30,
+   "filename": "mountain-sound.m4r"
+ },
+ {
+   "title": "Moved by you",
+   "genre": "R & B",
+   "artist": "India Arie",
+   "duration": 30.015,
+   "filename": "moved-by-you.m4r"
+ },
+ {
+   "title": "Moves Like Jagger",
+   "genre": "Pop",
+   "artist": "Maroon 5 Ft. Christina Aguilera",
+   "duration": 30.015,
+   "filename": "moves-like-jagger.m4r"
+ },
+ {
+   "title": "Moves Like Jagger (The Voice Performance) [feat. Christina Aguilera]",
+   "genre": "Pop",
+   "artist": "Maroon 5",
+   "duration": 30.015,
+   "filename": "moves-like-jagger-the-voice-performance-feat-c.m4r"
+ },
+ {
+   "title": "Moves Like Jagger(Feat.Christina Aguilera)",
+   "genre": "Pop",
+   "artist": "Maroon 5",
+   "duration": 30,
+   "filename": "moves-like-jaggerfeatchristina-aguilera.m4r"
+ },
+ {
+   "title": "Mr Right Now",
+   "genre": "Hip Hop",
+   "artist": "Pitbull,Akon-Rgf",
+   "duration": 29.989,
+   "filename": "mr-right-now.m4r"
+ },
+ {
+   "title": "Mr. Saxobeat",
+   "genre": "Dance",
+   "artist": "Alexandra Stan",
+   "duration": 29.989,
+   "filename": "mr-saxobeat.m4r"
+ },
+ {
+   "title": "Mr. Wrong",
+   "genre": "R & B",
+   "artist": "Mary J Blige feat. Drake",
+   "duration": 27.01,
+   "filename": "mr-wrong.m4r"
+ },
+ {
+   "title": "Musicology",
+   "genre": "R & B",
+   "artist": "Prince",
+   "duration": 29.989,
+   "filename": "musicology.m4r"
+ },
+ {
+   "title": "(My Bodyguard)",
+   "genre": "Pop",
+   "artist": "BY HanSooIn",
+   "duration": 27.939,
+   "filename": "my-bodyguard.m4r"
+ },
+ {
+   "title": "My Homies Still",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 29.989,
+   "filename": "my-homies-still.m4r"
+ },
+ {
+   "title": "My Life",
+   "genre": "Hip Hop",
+   "artist": "50 Cent",
+   "duration": 29.989,
+   "filename": "my-life.m4r"
+ },
+ {
+   "title": "My Love",
+   "genre": "Pop",
+   "artist": "Justin Timberlake",
+   "duration": 30.015,
+   "filename": "my-love.m4r"
+ },
+ {
+   "title": "My Perrogative",
+   "genre": "R & B",
+   "artist": "Bobby Brown",
+   "duration": 29.989,
+   "filename": "my-perrogative.m4r"
+ },
+ {
+   "title": "My Test Mp3",
+   "genre": "Hip-Hop",
+   "artist": "Me",
+   "duration": 12.016,
+   "filename": "my-test-mp3.m4r"
+ },
+ {
+   "title": "Na Na",
+   "genre": "R & B",
+   "artist": "Trey Songz",
+   "duration": 29.989,
+   "filename": "na-na.m4r"
+ },
+ {
+   "title": "Nas Ne Dogonyat (Not Gonna Get Us Russian Version)",
+   "genre": "Pop",
+   "artist": "t.A.T.u.",
+   "duration": 29.767,
+   "filename": "nas-ne-dogonyat-not-gonna-get-us-russian-version.m4r"
+ },
+ {
+   "title": "Naughty Girls (Need Love Too)",
+   "genre": "Pop",
+   "artist": "Samantha Fox",
+   "duration": 31.515,
+   "filename": "naughty-girls-need-love-too.m4r"
+ },
+ {
+   "title": "Nero Promises",
+   "genre": "Hardcore/Emo",
+   "artist": "Skrillex",
+   "duration": 28.003,
+   "filename": "nero-promises.m4r"
+ },
+ {
+   "title": "New Flame (feat. Usher & Rick Ross)",
+   "genre": "R & B",
+   "artist": "Chris Brown",
+   "duration": 30.015,
+   "filename": "new-flame-feat-usher-rick-ross.m4r"
+ },
+ {
+   "title": "Next To Me",
+   "genre": "House",
+   "artist": "Fred Everything",
+   "duration": 29.022,
+   "filename": "next-to-me.m4r"
+ },
+ {
+   "title": "Ni Princesa Ni Esclava",
+   "genre": "Latin",
+   "artist": "Jenni Rivera",
+   "duration": 29.989,
+   "filename": "ni-princesa-ni-esclava.m4r"
+ },
+ {
+   "title": "Niggas In Paris",
+   "genre": "Hip Hop",
+   "artist": "Jay-Z & Kanye West",
+   "duration": 29.989,
+   "filename": "nigg-in-paris.m4r"
+ },
+ {
+   "title": "NIght of My Life",
+   "genre": "Dance",
+   "artist": "Pauly D",
+   "duration": 30.015,
+   "filename": "night-of-my-life.m4r"
+ },
+ {
+   "title": "No Church In The Wild",
+   "genre": "Hip Hop",
+   "artist": "Jay-Z",
+   "duration": 30.015,
+   "filename": "no-church-in-the-wild.m4r"
+ },
+ {
+   "title": "No Hurry",
+   "genre": "Country",
+   "artist": "Zac Brown Band",
+   "duration": 29.989,
+   "filename": "no-hurry.m4r"
+ },
+ {
+   "title": "No Lie",
+   "genre": "Hip Hop",
+   "artist": "2 Chainz",
+   "duration": 30.015,
+   "filename": "no-lie.m4r"
+ },
+ {
+   "title": "No Lie (Feat. Drake)",
+   "genre": "Hip-Hop",
+   "artist": "2 Chainz",
+   "duration": 29.946,
+   "filename": "no-lie-feat-drake.m4r"
+ },
+ {
+   "title": "No Mediocre (feat. Iggy Azalea)",
+   "genre": "Hip Hop",
+   "artist": "T.I.",
+   "duration": 30.015,
+   "filename": "no-mediocre-feat-iggy-azalea.m4r"
+ },
+ {
+   "title": "No New Friends",
+   "genre": "Hip-Hop",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "no-new-friends.m4r"
+ },
+ {
+   "title": "No Tears",
+   "genre": "Hip Hop",
+   "artist": "Scarface",
+   "duration": 29.944,
+   "filename": "no-tears.m4r"
+ },
+ {
+   "title": "No Type",
+   "genre": "Hip Hop",
+   "artist": "Rae Sremmurd",
+   "duration": 30.015,
+   "filename": "no-type.m4r"
+ },
+ {
+   "title": "No Worries",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "no-worries.m4r"
+ },
+ {
+   "title": "Nobody Greater",
+   "genre": "Gospel",
+   "artist": "Vashawn Mitchell",
+   "duration": 29.989,
+   "filename": "nobody-greater.m4r"
+ },
+ {
+   "title": "Nobody Love",
+   "genre": "Pop",
+   "artist": "Tori Kelly",
+   "duration": 30.015,
+   "filename": "nobody-love.m4r"
+ },
+ {
+   "title": "Nobody\\\\\\'s Perfect",
+   "genre": "R & B",
+   "artist": "J. Cole",
+   "duration": 30.015,
+   "filename": "nobodys-perfect.m4r"
+ },
+ {
+   "title": "Nokia Remix 1",
+   "genre": "Electronica",
+   "artist": "NOKIA",
+   "duration": 23.014,
+   "filename": "nokia-remix-1.m4r"
+ },
+ {
+   "title": "Nokia Remix 2",
+   "genre": "Electronica",
+   "artist": "NOKIA",
+   "duration": 23.014,
+   "filename": "nokia-remix-2.m4r"
+ },
+ {
+   "title": "Nokia Remix 3",
+   "genre": "Electronica",
+   "artist": "NOKIA",
+   "duration": 29.022,
+   "filename": "nokia-remix-3.m4r"
+ },
+ {
+   "title": "Nokia Remix 4",
+   "genre": "Electronica",
+   "artist": "NOKIA",
+   "duration": 29.022,
+   "filename": "nokia-remix-4.m4r"
+ },
+ {
+   "title": "Not A Bad Thing",
+   "genre": "R & B",
+   "artist": "Justin Timberlake",
+   "duration": 29.989,
+   "filename": "not-a-bad-thing.m4r"
+ },
+ {
+   "title": "Not A Little Bit (Official Audio)",
+   "genre": "R & B",
+   "artist": "K. Michelle",
+   "duration": 30.015,
+   "filename": "not-a-little-bit-official-audio.m4r"
+ },
+ {
+   "title": "Nothing On (But The Radio)",
+   "genre": "Pop",
+   "artist": "Lady GaGa",
+   "duration": 30.015,
+   "filename": "nothing-on-but-the-radio.m4r"
+ },
+ {
+   "title": "nuclear explosion",
+   "genre": "Alternative",
+   "artist": "AdminSinger",
+   "duration": 11.572,
+   "filename": "nuclear-explosion.m4r"
+ },
+ {
+   "title": "O hansini - Zahreela insaan",
+   "genre": "Bollywood",
+   "artist": "Tabun",
+   "duration": 29.989,
+   "filename": "o-hansini-zahreela-insaan.m4r"
+ },
+ {
+   "title": "Often",
+   "genre": "Hip Hop",
+   "artist": "the weeknd",
+   "duration": 29.989,
+   "filename": "often.m4r"
+ },
+ {
+   "title": "Oh! Darling",
+   "genre": "Rock",
+   "artist": "The Beatles",
+   "duration": 28.992,
+   "filename": "oh-darling.m4r"
+ },
+ {
+   "title": "Okay With Me",
+   "genre": "Rap",
+   "artist": "Gucci Mane Feat. 2 Chainz",
+   "duration": 29.989,
+   "filename": "okay-with-me.m4r"
+ },
+ {
+   "title": "on the ocean",
+   "genre": "R & B",
+   "artist": "K\\'jon",
+   "duration": 29.989,
+   "filename": "on-the-ocean.m4r"
+ },
+ {
+   "title": "One Direction",
+   "genre": "Pop",
+   "artist": "One Thing",
+   "duration": 30.558,
+   "filename": "one-direction.m4r"
+ },
+ {
+   "title": "One in a million",
+   "genre": "R & B",
+   "artist": "Neyo",
+   "duration": 29.022,
+   "filename": "one-in-a-million.m4r"
+ },
+ {
+   "title": "One Last Time",
+   "genre": "Pop",
+   "artist": "Ariana Grande",
+   "duration": 29.989,
+   "filename": "one-last-time.m4r"
+ },
+ {
+   "title": "One More Night",
+   "genre": "Pop",
+   "artist": "Maroon 5",
+   "duration": 29.989,
+   "filename": "one-more-night.m4r"
+ },
+ {
+   "title": "Only One",
+   "genre": "R & B",
+   "artist": "Kanye West feat. Paul McCartney",
+   "duration": 29.989,
+   "filename": "only-one.m4r"
+ },
+ {
+   "title": "Only That Real",
+   "genre": "Hip-Hop",
+   "artist": "Iamsu! Feat. 2 Chainz & Sage The Gemini",
+   "duration": 29.989,
+   "filename": "only-that-real.m4r"
+ },
+ {
+   "title": "Opposites Attract",
+   "genre": "R & B",
+   "artist": "Curtis Fields",
+   "duration": 30.015,
+   "filename": "opposites-attract.m4r"
+ },
+ {
+   "title": "or nah",
+   "genre": "Rap",
+   "artist": "ty dolla",
+   "duration": 28.996,
+   "filename": "or-nah.m4r"
+ },
+ {
+   "title": "Ours",
+   "genre": "Country",
+   "artist": "Taylor Swift",
+   "duration": 29.989,
+   "filename": "ours.m4r"
+ },
+ {
+   "title": "Over",
+   "genre": "Country",
+   "artist": "Blake Shelton",
+   "duration": 29.989,
+   "filename": "over.m4r"
+ },
+ {
+   "title": "Over You",
+   "genre": "Country",
+   "artist": "Miranda Lambert",
+   "duration": 28.003,
+   "filename": "over-you.m4r"
+ },
+ {
+   "title": "Paid in Full",
+   "genre": "Hip Hop",
+   "artist": "Eric B. & Rakim",
+   "duration": 30.015,
+   "filename": "paid-in-full.m4r"
+ },
+ {
+   "title": "Pamela Gordon",
+   "genre": "Hip Hop",
+   "artist": "Pharell Williams",
+   "duration": 28.99,
+   "filename": "pamela-gordon.m4r"
+ },
+ {
+   "title": "Paper Trail",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "T.I.",
+   "duration": 14.96,
+   "filename": "paper-trail.m4r"
+ },
+ {
+   "title": "Paranoid x Twerkanoid",
+   "genre": "Hip Hop",
+   "artist": "Ty Dolla Sign Feat Tino Cochino",
+   "duration": 29.989,
+   "filename": "paranoid-x-twerkanoid.m4r"
+ },
+ {
+   "title": "Partition",
+   "genre": "Pop",
+   "artist": "Beyoncé",
+   "duration": 29.989,
+   "filename": "partition.m4r"
+ },
+ {
+   "title": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)",
+   "genre": "Pop",
+   "artist": "LMFAO",
+   "duration": 29.989,
+   "filename": "party-rock-anthem-feat-lauren-bennett-goonrock.m4r"
+ },
+ {
+   "title": "Pass At Me",
+   "genre": "Reggaeton",
+   "artist": "Pitbull Feat Timbaland",
+   "duration": 20.01,
+   "filename": "pass-at-me.m4r"
+ },
+ {
+   "title": "Payphone",
+   "genre": "Pop",
+   "artist": "Maroon 5",
+   "duration": 29.022,
+   "filename": "payphone.m4r"
+ },
+ {
+   "title": "Peacock",
+   "genre": "Pop",
+   "artist": "Katy Perry",
+   "duration": 27.891,
+   "filename": "peacock.m4r"
+ },
+ {
+   "title": "Persian Rugs",
+   "genre": "Hip Hop",
+   "artist": "PARTYNEXTDOOR",
+   "duration": 29.989,
+   "filename": "persian-rugs.m4r"
+ },
+ {
+   "title": "Pick up the pieces",
+   "genre": "R & B",
+   "artist": "Jason DeRulo",
+   "duration": 11.99,
+   "filename": "pick-up-the-pieces.m4r"
+ },
+ {
+   "title": "Piss\\\\\\'n On Your Ego",
+   "genre": "Hip Hop",
+   "artist": "TI ft Big Sean & Game",
+   "duration": 26.984,
+   "filename": "pissn-on-your-ego.m4r"
+ },
+ {
+   "title": "Poke Her Face (feat. Jae Millz)",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "poke-her-face-feat-jae-millz.m4r"
+ },
+ {
+   "title": "Pompeii",
+   "genre": "Pop",
+   "artist": "Bastille",
+   "duration": 29.989,
+   "filename": "pompeii.m4r"
+ },
+ {
+   "title": "Pontoon",
+   "genre": "Country",
+   "artist": "Little Big Town",
+   "duration": 29.989,
+   "filename": "pontoon.m4r"
+ },
+ {
+   "title": "Poor Leno",
+   "genre": "Electronica",
+   "artist": "Röyksopp",
+   "duration": 29.989,
+   "filename": "poor-leno.m4r"
+ },
+ {
+   "title": "Pop That",
+   "genre": "Rap",
+   "artist": "French Montana",
+   "duration": 29.989,
+   "filename": "pop-that.m4r"
+ },
+ {
+   "title": "Poppin Rubberbands",
+   "genre": "Hip Hop",
+   "artist": "Wiz Khalifa",
+   "duration": 31.231,
+   "filename": "poppin-rubberbands.m4r"
+ },
+ {
+   "title": "Postcard From Paris",
+   "genre": "Country",
+   "artist": "The Band Perry",
+   "duration": 30.015,
+   "filename": "postcard-from-paris.m4r"
+ },
+ {
+   "title": "Pound the Alarm",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 29.989,
+   "filename": "pound-the-alarm.m4r"
+ },
+ {
+   "title": "Preachers of Detroit: Original Music Video | Oxygen",
+   "genre": "Gospel",
+   "artist": "Dedtirck Haddon",
+   "duration": 29.989,
+   "filename": "preachers-of-detroit-original-music-video-oxyge.m4r"
+ },
+ {
+   "title": "Pretty Girls",
+   "genre": "Hip Hop",
+   "artist": "Wale ft. Gucci Mane",
+   "duration": 29.989,
+   "filename": "pretty-girls.m4r"
+ },
+ {
+   "title": "Pretty Lil Heart",
+   "genre": "Hip Hop",
+   "artist": "Robin Thicke",
+   "duration": 24.007,
+   "filename": "pretty-lil-heart.m4r"
+ },
+ {
+   "title": "Pride Joy",
+   "genre": "Hip Hop",
+   "artist": "Fat Joe",
+   "duration": 29.989,
+   "filename": "pride-joy.m4r"
+ },
+ {
+   "title": "Problem",
+   "genre": "Hip Hop",
+   "artist": "Ariana Grande",
+   "duration": 21.984,
+   "filename": "problem.m4r"
+ },
+ {
+   "title": "Problem (feat. Iggy Azalea)",
+   "genre": "Pop",
+   "artist": "Ariana Grande",
+   "duration": 27.942,
+   "filename": "problem-feat-iggy-azalea.m4r"
+ },
+ {
+   "title": "Pump It Harder",
+   "genre": "Pop",
+   "artist": "Black Eyed Peas",
+   "duration": 29.963,
+   "filename": "pump-it-harder.m4r"
+ },
+ {
+   "title": "Purple Flowers",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "purple-flowers.m4r"
+ },
+ {
+   "title": "Purple Flowers",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "purple-flowers-prod-by-relix-the-underdog-ft-w.m4r"
+ },
+ {
+   "title": "Purple Haze",
+   "genre": "Rock",
+   "artist": "Jimi Hendrix",
+   "duration": 29.989,
+   "filename": "purple-haze.m4r"
+ },
+ {
+   "title": "Pusher Love Girl",
+   "genre": "R & B",
+   "artist": "Justin Timberlake",
+   "duration": 29.989,
+   "filename": "pusher-love-girl.m4r"
+ },
+ {
+   "title": "Put You In A Song",
+   "genre": "Country",
+   "artist": "Keith Urban",
+   "duration": 30.015,
+   "filename": "put-you-in-a-song.m4r"
+ },
+ {
+   "title": "Quickie",
+   "genre": "R & B",
+   "artist": "Miguel",
+   "duration": 24.183,
+   "filename": "quickie.m4r"
+ },
+ {
+   "title": "Rack City",
+   "genre": "Hip Hop",
+   "artist": "Tyga",
+   "duration": 29.989,
+   "filename": "rack-city.m4r"
+ },
+ {
+   "title": "Radioactive",
+   "genre": "Alternative",
+   "artist": "Imagine Dragons",
+   "duration": 29.989,
+   "filename": "radioactive.m4r"
+ },
+ {
+   "title": "Rain",
+   "genre": "Rap",
+   "artist": "Trae ft Z-ro ABN",
+   "duration": 28.996,
+   "filename": "rain.m4r"
+ },
+ {
+   "title": "Reach For The Sky",
+   "genre": "Rock",
+   "artist": "Social Distortion",
+   "duration": 31.094,
+   "filename": "reach-for-the-sky.m4r"
+ },
+ {
+   "title": "Reality",
+   "genre": "Country",
+   "artist": "Kenny Chesney",
+   "duration": 30.636,
+   "filename": "reality.m4r"
+ },
+ {
+   "title": "Red Nose",
+   "genre": "Hip Hop",
+   "artist": "Sage The Gemini",
+   "duration": 29.989,
+   "filename": "red-nose.m4r"
+ },
+ {
+   "title": "Red Red Wine",
+   "genre": "Reggae",
+   "artist": "Bob Marley",
+   "duration": 29.989,
+   "filename": "red-red-wine.m4r"
+ },
+ {
+   "title": "Red Solo Cup",
+   "genre": "Country",
+   "artist": "Toby Keith",
+   "duration": 29.989,
+   "filename": "red-solo-cup.m4r"
+ },
+ {
+   "title": "Rehab",
+   "genre": "Alternative",
+   "artist": "Amy Winehouse",
+   "duration": 30.218,
+   "filename": "rehab.m4r"
+ },
+ {
+   "title": "Reheem Davaughn",
+   "genre": "R & B",
+   "artist": "You",
+   "duration": 21.995,
+   "filename": "reheem-davaughn.m4r"
+ },
+ {
+   "title": "Remember the Time",
+   "genre": "R & B",
+   "artist": "Micheal Jackson",
+   "duration": 20.01,
+   "filename": "remember-the-time.m4r"
+ },
+ {
+   "title": "Remember When (Feat. Ray J)",
+   "genre": "Hip Hop",
+   "artist": "Gucci Mane",
+   "duration": 30.619,
+   "filename": "remember-when-feat-ray-j.m4r"
+ },
+ {
+   "title": "Remind Me",
+   "genre": "Electronica",
+   "artist": "Röyksopp",
+   "duration": 12.069,
+   "filename": "remind-me.m4r"
+ },
+ {
+   "title": "Replacement Girl (Feat. Trey Songz)",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "replacement-girl-feat-trey-songz.m4r"
+ },
+ {
+   "title": "Respect",
+   "genre": "Disco",
+   "artist": "Aretha Franklin",
+   "duration": 29.989,
+   "filename": "respect.m4r"
+ },
+ {
+   "title": "Revelation Road",
+   "genre": "Country",
+   "artist": "Shelby Lynne",
+   "duration": 29.989,
+   "filename": "revelation-road.m4r"
+ },
+ {
+   "title": "Ride With Me",
+   "genre": "Rock",
+   "artist": "Decyfer Down",
+   "duration": 20.295,
+   "filename": "ride-with-me.m4r"
+ },
+ {
+   "title": "Ridin\\' (Radio Edit)",
+   "genre": "Hip Hop",
+   "artist": "Chamillionaire featuring Krayzie Bone",
+   "duration": 29.989,
+   "filename": "ridin-radio-edit.m4r"
+ },
+ {
+   "title": "Right By My Side",
+   "genre": "Pop",
+   "artist": "Nicki Minaj Ft. Chris Brown",
+   "duration": 27.594,
+   "filename": "right-by-my-side.m4r"
+ },
+ {
+   "title": "Right Here",
+   "genre": "Dance",
+   "artist": "Justin Bieber",
+   "duration": 29.989,
+   "filename": "right-here.m4r"
+ },
+ {
+   "title": "Ring Ding Dong",
+   "genre": "Hip Hop",
+   "artist": "Dr. Dre feat. Ice Cube",
+   "duration": 29.989,
+   "filename": "ring-ding-dong.m4r"
+ },
+ {
+   "title": "Roar",
+   "genre": "Pop",
+   "artist": "Katy Perry",
+   "duration": 29.989,
+   "filename": "roar.m4r"
+ },
+ {
+   "title": "Rock with You",
+   "genre": "Pop",
+   "artist": "Michael Jackson",
+   "duration": 30.015,
+   "filename": "rock-with-you.m4r"
+ },
+ {
+   "title": "Rocketeer (Ft. Ryan Tedder)",
+   "genre": "Pop",
+   "artist": "Far East Movement",
+   "duration": 31.633,
+   "filename": "rocketeer-ft-ryan-tedder.m4r"
+ },
+ {
+   "title": "Rolling In The Deep",
+   "genre": "Pop",
+   "artist": "Adele",
+   "duration": 30,
+   "filename": "rolling-in-the-deep.m4r"
+ },
+ {
+   "title": "Rolling into the Deep",
+   "genre": "R & B",
+   "artist": "Adele",
+   "duration": 29.435,
+   "filename": "rolling-into-the-deep.m4r"
+ },
+ {
+   "title": "Roses",
+   "genre": "Pop",
+   "artist": "The Chainsmokers",
+   "duration": 29.989,
+   "filename": "roses.m4r"
+ },
+ {
+   "title": "Rovio",
+   "genre": "TV & Movies",
+   "artist": "Angry Birds",
+   "duration": 29.022,
+   "filename": "rovio.m4r"
+ },
+ {
+   "title": "Ru Tang Ru",
+   "genre": "Pop",
+   "artist": "Da Edopine",
+   "duration": 29.92,
+   "filename": "ru-tang-ru.m4r"
+ },
+ {
+   "title": "Rumour Has It",
+   "genre": "Pop",
+   "artist": "Adele",
+   "duration": 34.58,
+   "filename": "rumour-has-it.m4r"
+ },
+ {
+   "title": "Runnin\\\\\\' Out Of Air",
+   "genre": "Country",
+   "artist": "Love and Theft",
+   "duration": 28.996,
+   "filename": "runnin-out-of-air.m4r"
+ },
+ {
+   "title": "Sai Sai",
+   "genre": "Pop",
+   "artist": "Nos",
+   "duration": 28.955,
+   "filename": "sai-sai.m4r"
+ },
+ {
+   "title": "Same Damn Time",
+   "genre": "Rap",
+   "artist": "Future",
+   "duration": 34.719,
+   "filename": "same-damn-time.m4r"
+ },
+ {
+   "title": "Same Damn Tune",
+   "genre": "Rap",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "same-damn-tune.m4r"
+ },
+ {
+   "title": "Same Love",
+   "genre": "Hip Hop",
+   "artist": "Macklemore & Ryan Lewis",
+   "duration": 30.015,
+   "filename": "same-love.m4r"
+ },
+ {
+   "title": "Same Old Love",
+   "genre": "Pop",
+   "artist": "Selena Gomez",
+   "duration": 30.015,
+   "filename": "same-old-love.m4r"
+ },
+ {
+   "title": "Sarah",
+   "genre": "Pop",
+   "artist": "Jefferson Starship",
+   "duration": 29.989,
+   "filename": "sarah.m4r"
+ },
+ {
+   "title": "Satisfaction (Trap Mix)",
+   "genre": "Dance",
+   "artist": "Benni Benassy",
+   "duration": 30.015,
+   "filename": "satisfaction-trap-mix.m4r"
+ },
+ {
+   "title": "Satisfy My Soul",
+   "genre": "Reggae",
+   "artist": "Bob Marley",
+   "duration": 29.989,
+   "filename": "satisfy-my-soul.m4r"
+ },
+ {
+   "title": "Saturday Love",
+   "genre": "Soul and R&B",
+   "artist": "Cherelle",
+   "duration": 28.003,
+   "filename": "saturday-love.m4r"
+ },
+ {
+   "title": "Say Something",
+   "genre": "R & B",
+   "artist": "A Great Big World",
+   "duration": 29.989,
+   "filename": "say-something.m4r"
+ },
+ {
+   "title": "say yes",
+   "genre": "Gospel",
+   "artist": "michelle williams",
+   "duration": 30.015,
+   "filename": "say-yes.m4r"
+ },
+ {
+   "title": "Scary Door",
+   "genre": "Annoying",
+   "artist": "Annoying Ringtone",
+   "duration": 29.022,
+   "filename": "scary-door.m4r"
+ },
+ {
+   "title": "Scream",
+   "genre": "Pop",
+   "artist": "Usher",
+   "duration": 29.989,
+   "filename": "scream.m4r"
+ },
+ {
+   "title": "Scream and Shout",
+   "genre": "Pop",
+   "artist": "Will.i.Am",
+   "duration": 30.015,
+   "filename": "scream-and-shout.m4r"
+ },
+ {
+   "title": "Se Acabo (Feat. Tito",
+   "genre": "Latin",
+   "artist": "Wisin & Yandel",
+   "duration": 31.568,
+   "filename": "se-acabo-feat-tito.m4r"
+ },
+ {
+   "title": "Sebastian",
+   "genre": "Pop",
+   "artist": "Toulava",
+   "duration": 30,
+   "filename": "sebastian.m4r"
+ },
+ {
+   "title": "#Selfie",
+   "genre": "Dance",
+   "artist": "The Chainsmokers",
+   "duration": 29.989,
+   "filename": "selfie.m4r"
+ },
+ {
+   "title": "Separate Ways (Worlds Apart)",
+   "genre": "Rock",
+   "artist": "Journey",
+   "duration": 31.852,
+   "filename": "separate-ways-worlds-apart.m4r"
+ },
+ {
+   "title": "Set the Rain on Fire",
+   "genre": "R & B",
+   "artist": "Adele",
+   "duration": 30.569,
+   "filename": "set-the-rain-on-fire.m4r"
+ },
+ {
+   "title": "Set U Free",
+   "genre": "Dance",
+   "artist": "Planet Soul",
+   "duration": 30.015,
+   "filename": "set-u-free.m4r"
+ },
+ {
+   "title": "Sex aint better than love",
+   "genre": "R & B",
+   "artist": "trey songz",
+   "duration": 29.989,
+   "filename": "sex-aint-better-than-love.m4r"
+ },
+ {
+   "title": "Sex in the Lounge",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 33.563,
+   "filename": "sex-in-the-lounge.m4r"
+ },
+ {
+   "title": "Sex With Strangers (Matrix Remix)",
+   "genre": "Drum & Bass",
+   "artist": "100hz & Kabba",
+   "duration": 30.015,
+   "filename": "sex-with-strangers-matrix-remix.m4r"
+ },
+ {
+   "title": "Sexy and I Know It",
+   "genre": "Pop",
+   "artist": "LMFAO",
+   "duration": 29.989,
+   "filename": "sexy-and-i-know-it.m4r"
+ },
+ {
+   "title": "Sexy Back",
+   "genre": "Pop",
+   "artist": "Justin Timberlake",
+   "duration": 29.989,
+   "filename": "sexy-back.m4r"
+ },
+ {
+   "title": "SexyBack (Dirty)",
+   "genre": "Pop",
+   "artist": "Justin Timberlake",
+   "duration": 30.015,
+   "filename": "sexyback-dirty.m4r"
+ },
+ {
+   "title": "Shit Done Got Real",
+   "genre": "Hip Hop",
+   "artist": "Ace Hood",
+   "duration": 17.998,
+   "filename": "sh-done-got-real.m4r"
+ },
+ {
+   "title": "Shake It Off",
+   "genre": "Pop",
+   "artist": "Taylor Swift",
+   "duration": 29.989,
+   "filename": "shake-it-off.m4r"
+ },
+ {
+   "title": "She",
+   "genre": "R & B",
+   "artist": "Tyler, The Creator ft. Frank Ocean",
+   "duration": 31.667,
+   "filename": "she.m4r"
+ },
+ {
+   "title": "She Don\\\\\\'t Put It Down Like You",
+   "genre": "Hip-Hop",
+   "artist": "Joe Budden",
+   "duration": 29.963,
+   "filename": "she-dont-put-it-down-like-you.m4r"
+ },
+ {
+   "title": "She feat. Frank Ocean",
+   "genre": "Hip Hop",
+   "artist": "Tyler the Creator",
+   "duration": 24.499,
+   "filename": "she-feat-frank-ocean.m4r"
+ },
+ {
+   "title": "She Loves You",
+   "genre": "Rock",
+   "artist": "The Beatles",
+   "duration": 12,
+   "filename": "she-loves-you.m4r"
+ },
+ {
+   "title": "She Will (feat. Drake)",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 29.989,
+   "filename": "she-will-feat-drake.m4r"
+ },
+ {
+   "title": "She\\\\\\'s Tyler Moore She\\\\\\'s Mary",
+   "genre": "Dance",
+   "artist": "Dj Mix Master",
+   "duration": 30.015,
+   "filename": "shes-tyler-moore-shes-mary.m4r"
+ },
+ {
+   "title": "Shot For Me",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 30.015,
+   "filename": "shot-for-me.m4r"
+ },
+ {
+   "title": "Show Me Feat. Chris Brown",
+   "genre": "Pop",
+   "artist": "Kid Ink",
+   "duration": 30.015,
+   "filename": "show-me-feat-chris-brown.m4r"
+ },
+ {
+   "title": "Shubhaarambh",
+   "genre": "Indian",
+   "artist": "Shruti Pathak & Divya Kumar",
+   "duration": 28.408,
+   "filename": "shubhaarambh.m4r"
+ },
+ {
+   "title": "Shut Up And Dance",
+   "genre": "Rock",
+   "artist": "Walk The Moon",
+   "duration": 26.703,
+   "filename": "shut-up-and-dance.m4r"
+ },
+ {
+   "title": "Sic \\\\\\'em On A Chicken",
+   "genre": "Country",
+   "artist": "Zac Brown Band",
+   "duration": 29.989,
+   "filename": "sic-em-on-a-chicken.m4r"
+ },
+ {
+   "title": "Sideshow (Remix) (feat. Too Short, Keak Da Sneak)",
+   "genre": "Hip Hop",
+   "artist": "Mistah F.A.B.",
+   "duration": 29.211,
+   "filename": "sideshow-remix-feat-too-short-keak-da-sneak.m4r"
+ },
+ {
+   "title": "Sierra Leone",
+   "genre": "Drum & Bass",
+   "artist": "Mt. Eden",
+   "duration": 29.989,
+   "filename": "sierra-leone.m4r"
+ },
+ {
+   "title": "Signed, Sealed, Delivered, I\\\\\\'m Yours",
+   "genre": "Soul and R&B",
+   "artist": "Stevie Wonder",
+   "duration": 30.015,
+   "filename": "signed-sealed-delivered-im-yours.m4r"
+ },
+ {
+   "title": "Single",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "single.m4r"
+ },
+ {
+   "title": "Sister Christian",
+   "genre": "Pop",
+   "artist": "Night Ranger",
+   "duration": 29.989,
+   "filename": "sister-christian.m4r"
+ },
+ {
+   "title": "Skrillex",
+   "genre": "Electronica",
+   "artist": "Bangarang",
+   "duration": 29.989,
+   "filename": "skrillex.m4r"
+ },
+ {
+   "title": "Skyfall",
+   "genre": "Pop",
+   "artist": "Adele",
+   "duration": 30.015,
+   "filename": "skyfall.m4r"
+ },
+ {
+   "title": "Slow Down",
+   "genre": "Hip-Hop",
+   "artist": "Clyde",
+   "duration": 30.015,
+   "filename": "slow-down.m4r"
+ },
+ {
+   "title": "Smoking On",
+   "genre": "Rap",
+   "artist": "Wiz Khalifa ft. Snoop Dogg",
+   "duration": 28.003,
+   "filename": "smoking-on.m4r"
+ },
+ {
+   "title": "Smooth Criminal",
+   "genre": "Pop",
+   "artist": "Michael Jackson",
+   "duration": 30.015,
+   "filename": "smooth-criminal.m4r"
+ },
+ {
+   "title": "So Sophisticated",
+   "genre": "Hip Hop",
+   "artist": "Rick Ross",
+   "duration": 29.989,
+   "filename": "so-sophisticated.m4r"
+ },
+ {
+   "title": "Sol Patrol (Migs Transporters Vibe)",
+   "genre": "House",
+   "artist": "Miguel Migs",
+   "duration": 29.989,
+   "filename": "sol-patrol-migs-transporters-vibe.m4r"
+ },
+ {
+   "title": "Some Beach",
+   "genre": "Country",
+   "artist": "Blake Shelton",
+   "duration": 30,
+   "filename": "some-beach.m4r"
+ },
+ {
+   "title": "Some Nights",
+   "genre": "Pop",
+   "artist": "Fun.",
+   "duration": 30.983,
+   "filename": "some-nights.m4r"
+ },
+ {
+   "title": "Somebody I Used To Know",
+   "genre": "Pop",
+   "artist": "Gotye feat. Kimbra",
+   "duration": 32.993,
+   "filename": "somebody-i-used-to-know.m4r"
+ },
+ {
+   "title": "Somebody that I used to Know",
+   "genre": "Alternative",
+   "artist": "Gotye",
+   "duration": 29.989,
+   "filename": "somebody-that-i-used-to-know.m4r"
+ },
+ {
+   "title": "Somebody that I used to Know (Remix)",
+   "genre": "Dance",
+   "artist": "Mike D",
+   "duration": 29.989,
+   "filename": "somebody-that-i-used-to-know-remix.m4r"
+ },
+ {
+   "title": "Somebody\\\\\\'s Heartbreak",
+   "genre": "Hip Hop",
+   "artist": "Hunter Hayes",
+   "duration": 30.015,
+   "filename": "somebodys-heartbreak.m4r"
+ },
+ {
+   "title": "someday we\\\\\\'ll know",
+   "genre": "Other",
+   "artist": "New Radicals",
+   "duration": 27.842,
+   "filename": "someday-well-know.m4r"
+ },
+ {
+   "title": "Someone Like You",
+   "genre": "R & B",
+   "artist": "Adele",
+   "duration": 29.989,
+   "filename": "someone-like-you.m4r"
+ },
+ {
+   "title": "something about name Jesus",
+   "genre": "Gospel",
+   "artist": "Kirk franklin",
+   "duration": 30.015,
+   "filename": "something-about-name-jesus.m4r"
+ },
+ {
+   "title": "Somewhere I Belong",
+   "genre": "Rock",
+   "artist": "Linkin Park",
+   "duration": 29.022,
+   "filename": "somewhere-i-belong.m4r"
+ },
+ {
+   "title": "Sorry",
+   "genre": "Pop",
+   "artist": "Madonna",
+   "duration": 29.92,
+   "filename": "sorry.m4r"
+ },
+ {
+   "title": "Sorry for Party Rockin",
+   "genre": "Pop",
+   "artist": "LMFAO",
+   "duration": 28.003,
+   "filename": "sorry-for-party-rockin.m4r"
+ },
+ {
+   "title": "Soul Survivor",
+   "genre": "Rap",
+   "artist": "Akon Ft Young Jeezy",
+   "duration": 21.002,
+   "filename": "soul-survivor.m4r"
+ },
+ {
+   "title": "Southern Constellations",
+   "genre": "Rock",
+   "artist": "Pierce the Veil",
+   "duration": 26.932,
+   "filename": "southern-constellations.m4r"
+ },
+ {
+   "title": "Space Bound",
+   "genre": "Hip Hop",
+   "artist": "Eminem",
+   "duration": 29.989,
+   "filename": "space-bound.m4r"
+ },
+ {
+   "title": "Spotlight",
+   "genre": "R & B",
+   "artist": "Gucci Mane Ft. Usher",
+   "duration": 30.015,
+   "filename": "spotlight.m4r"
+ },
+ {
+   "title": "Springsteen",
+   "genre": "Country",
+   "artist": "Eric Church",
+   "duration": 29.561,
+   "filename": "springsteen.m4r"
+ },
+ {
+   "title": "Star Spangled Banner",
+   "genre": "Rock",
+   "artist": "Jimi Hendrix",
+   "duration": 29.989,
+   "filename": "star-spangled-banner.m4r"
+ },
+ {
+   "title": "Starships",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 29.989,
+   "filename": "starships.m4r"
+ },
+ {
+   "title": "Started From The Bottom",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "started-from-the-bottom.m4r"
+ },
+ {
+   "title": "Stay",
+   "genre": "Pop",
+   "artist": "Rihanna",
+   "duration": 25.262,
+   "filename": "stay.m4r"
+ },
+ {
+   "title": "Stay With Me",
+   "genre": "R & B",
+   "artist": "Sam Smith",
+   "duration": 29.989,
+   "filename": "stay-with-me.m4r"
+ },
+ {
+   "title": "Staying Alive",
+   "genre": "Disco",
+   "artist": "The Bee Gees",
+   "duration": 29.989,
+   "filename": "staying-alive.m4r"
+ },
+ {
+   "title": "Steady",
+   "genre": "Gospel",
+   "artist": "Alexis Spight",
+   "duration": 29.989,
+   "filename": "steady.m4r"
+ },
+ {
+   "title": "Stiches",
+   "genre": "Pop",
+   "artist": "Shawn Mendes",
+   "duration": 30,
+   "filename": "stiches.m4r"
+ },
+ {
+   "title": "Still Got It",
+   "genre": "Hip Hop",
+   "artist": "Tyga feat. Drake",
+   "duration": 25.963,
+   "filename": "still-got-it.m4r"
+ },
+ {
+   "title": "Stitch By Stich",
+   "genre": "Country",
+   "artist": "Javier Colon",
+   "duration": 29.989,
+   "filename": "stitch-by-stich.m4r"
+ },
+ {
+   "title": "Story Of My Life",
+   "genre": "Pop",
+   "artist": "One Direction",
+   "duration": 29.989,
+   "filename": "story-of-my-life.m4r"
+ },
+ {
+   "title": "Stressed Out",
+   "genre": "Alternative",
+   "artist": "Twenty One Pilots",
+   "duration": 29.963,
+   "filename": "stressed-out.m4r"
+ },
+ {
+   "title": "Strip (feat. Kevin McCall)",
+   "genre": "Pop",
+   "artist": "Chris Brown",
+   "duration": 30.015,
+   "filename": "strip-feat-kevin-mccall.m4r"
+ },
+ {
+   "title": "Stronger version1",
+   "genre": "Pop",
+   "artist": "Kelly Clarkson",
+   "duration": 17.006,
+   "filename": "stronger-version1.m4r"
+ },
+ {
+   "title": "Stupid Hoe",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 30.015,
+   "filename": "stupid-hoe.m4r"
+ },
+ {
+   "title": "Style",
+   "genre": "Pop",
+   "artist": "Taylor Swift",
+   "duration": 30.015,
+   "filename": "style.m4r"
+ },
+ {
+   "title": "sucka for love",
+   "genre": "Pop",
+   "artist": "Danity Kane",
+   "duration": 30.015,
+   "filename": "sucka-for-love.m4r"
+ },
+ {
+   "title": "Suit and Tie",
+   "genre": "Pop",
+   "artist": "Justin Timberlake",
+   "duration": 29.963,
+   "filename": "suit-and-tie.m4r"
+ },
+ {
+   "title": "Summer",
+   "genre": "Dance",
+   "artist": "Calvin Harris",
+   "duration": 29.989,
+   "filename": "summer.m4r"
+ },
+ {
+   "title": "Summer Vacation",
+   "genre": "Hip Hop",
+   "artist": "Ice Cube",
+   "duration": 30.015,
+   "filename": "summer-vacation.m4r"
+ },
+ {
+   "title": "Summertime Sadness (Radio Mix)",
+   "genre": "Pop",
+   "artist": "Lana Del Rey",
+   "duration": 29.445,
+   "filename": "summertime-sadness-radio-mix.m4r"
+ },
+ {
+   "title": "Super Bass",
+   "genre": "Pop",
+   "artist": "Nicki Minaj",
+   "duration": 29.989,
+   "filename": "super-bass.m4r"
+ },
+ {
+   "title": "Super Freak",
+   "genre": "Disco",
+   "artist": "Rick James",
+   "duration": 30.015,
+   "filename": "super-freak.m4r"
+ },
+ {
+   "title": "Supersoul [Original Mix]",
+   "genre": "House",
+   "artist": "Playmaker",
+   "duration": 30.015,
+   "filename": "supersoul-original-mix.m4r"
+ },
+ {
+   "title": "Superstar",
+   "genre": "Hip Hop",
+   "artist": "Lupe Fiasco",
+   "duration": 20.01,
+   "filename": "superstar.m4r"
+ },
+ {
+   "title": "SUPERSTAR---FAV 5",
+   "genre": "Hip Hop",
+   "artist": "7th AnGeL Productionz",
+   "duration": 30.015,
+   "filename": "superstar-fav-5.m4r"
+ },
+ {
+   "title": "Swagga Like Us",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "swagga-like-us.m4r"
+ },
+ {
+   "title": "Sweet Home Alabama",
+   "genre": "Country",
+   "artist": "Lynyrd Skynyrd",
+   "duration": 29.989,
+   "filename": "sweet-home-alabama.m4r"
+ },
+ {
+   "title": "Sweet Love",
+   "genre": "R & B",
+   "artist": "Chris Brown",
+   "duration": 29.989,
+   "filename": "sweet-love.m4r"
+ },
+ {
+   "title": "Take A Back Road",
+   "genre": "Country",
+   "artist": "Rodney Atkins",
+   "duration": 30.015,
+   "filename": "take-a-back-road.m4r"
+ },
+ {
+   "title": "Take A Little Ride",
+   "genre": "Country",
+   "artist": "Jason Aldean",
+   "duration": 29.022,
+   "filename": "take-a-little-ride.m4r"
+ },
+ {
+   "title": "Take Care",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 30.015,
+   "filename": "take-care.m4r"
+ },
+ {
+   "title": "Take Care (Feat. Rihanna)",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 30.015,
+   "filename": "take-care-feat-rihanna.m4r"
+ },
+ {
+   "title": "Take care ringtone",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Drake",
+   "duration": 29.989,
+   "filename": "take-care-ringtone.m4r"
+ },
+ {
+   "title": "Take It To The Head",
+   "genre": "Hip Hop",
+   "artist": "DJ Khaled",
+   "duration": 30.015,
+   "filename": "take-it-to-the-head.m4r"
+ },
+ {
+   "title": "Take me in your arms and hold",
+   "genre": "Country",
+   "artist": "Unknown",
+   "duration": 29.989,
+   "filename": "take-me-in-your-arms-and-hold.m4r"
+ },
+ {
+   "title": "Take Me To Church",
+   "genre": "Rock",
+   "artist": "Hozier",
+   "duration": 30.015,
+   "filename": "take-me-to-church.m4r"
+ },
+ {
+   "title": "Take Me to the King",
+   "genre": "Gospel",
+   "artist": "Tamela Mann",
+   "duration": 29.989,
+   "filename": "take-me-to-the-king.m4r"
+ },
+ {
+   "title": "Talk Dirty",
+   "genre": "Pop",
+   "artist": "Jason Derulo feat. 2 Chainz",
+   "duration": 30.015,
+   "filename": "talk-dirty.m4r"
+ },
+ {
+   "title": "Tapout",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 29.989,
+   "filename": "tapout.m4r"
+ },
+ {
+   "title": "Tattoo",
+   "genre": "Rock",
+   "artist": "Van Halen",
+   "duration": 29.989,
+   "filename": "tattoo.m4r"
+ },
+ {
+   "title": "Tattoos On This Town",
+   "genre": "Country",
+   "artist": "Jason Aldean",
+   "duration": 30.015,
+   "filename": "tattoos-on-this-town.m4r"
+ },
+ {
+   "title": "Te Amo",
+   "genre": "Latin",
+   "artist": "George LaMaond",
+   "duration": 30.015,
+   "filename": "te-amo.m4r"
+ },
+ {
+   "title": "Team",
+   "genre": "Pop",
+   "artist": "Lorde",
+   "duration": 29.989,
+   "filename": "team.m4r"
+ },
+ {
+   "title": "Tell Me When To Go",
+   "genre": "Hip Hop",
+   "artist": "E-40",
+   "duration": 29.989,
+   "filename": "tell-me-when-to-go.m4r"
+ },
+ {
+   "title": "That\\\\\\'s How It Goes Down - YouTube",
+   "genre": "Hip Hop",
+   "artist": "Too Short",
+   "duration": 29.989,
+   "filename": "thats-how-it-goes-down-youtube.m4r"
+ },
+ {
+   "title": "The A Team",
+   "genre": "Pop",
+   "artist": "Ed Sheeran",
+   "duration": 28.003,
+   "filename": "the-a-team.m4r"
+ },
+ {
+   "title": "The Adventures Of Rain Dance Maggie",
+   "genre": "Rock",
+   "artist": "Red Hot Chili Peppers",
+   "duration": 26.018,
+   "filename": "the-adventures-of-rain-dance-maggie.m4r"
+ },
+ {
+   "title": "The Big Big Bang",
+   "genre": "TV & Movies",
+   "artist": "Rock Mafia",
+   "duration": 28.996,
+   "filename": "the-big-big-bang.m4r"
+ },
+ {
+   "title": "The Boys",
+   "genre": "Hip Hop",
+   "artist": "Nicki Minaj",
+   "duration": 30.015,
+   "filename": "the-boys.m4r"
+ },
+ {
+   "title": "The City Up",
+   "genre": "R & B",
+   "artist": "Chris Brown",
+   "duration": 29.989,
+   "filename": "the-city-up.m4r"
+ },
+ {
+   "title": "The Downfall Of Us All",
+   "genre": "Rock",
+   "artist": "A Day To Remember",
+   "duration": 28.596,
+   "filename": "the-downfall-of-us-all.m4r"
+ },
+ {
+   "title": "The Eagle and the Hawk",
+   "genre": "Other",
+   "artist": "John Denver",
+   "duration": 28.167,
+   "filename": "the-eagle-and-the-hawk.m4r"
+ },
+ {
+   "title": "The Fighter",
+   "genre": "Pop",
+   "artist": "Gym Class Heroes",
+   "duration": 30,
+   "filename": "the-fighter.m4r"
+ },
+ {
+   "title": "The Good, the Bad and the Ugly",
+   "genre": "Soundtrack",
+   "artist": "Ennio Morricone",
+   "duration": 30.015,
+   "filename": "the-good-the-bad-and-the-ugly.m4r"
+ },
+ {
+   "title": "The Greatest Love Of All",
+   "genre": "Pop",
+   "artist": "Whitney Houston",
+   "duration": 29.989,
+   "filename": "the-greatest-love-of-all.m4r"
+ },
+ {
+   "title": "The Guilty Pleasure (No Hands)",
+   "genre": "Hip Hop",
+   "artist": "Wale",
+   "duration": 6.008,
+   "filename": "the-guilty-pleasure-no-hands.m4r"
+ },
+ {
+   "title": "The Heart of Life",
+   "genre": "Other",
+   "artist": "John Mayer",
+   "duration": 29.989,
+   "filename": "the-heart-of-life.m4r"
+ },
+ {
+   "title": "The Hills",
+   "genre": "R & B",
+   "artist": "The Weeknd",
+   "duration": 29.989,
+   "filename": "the-hills.m4r"
+ },
+ {
+   "title": "The Hustle",
+   "genre": "Disco",
+   "artist": "Van McCoy",
+   "duration": 30.239,
+   "filename": "the-hustle.m4r"
+ },
+ {
+   "title": "The Illest",
+   "genre": "Electronica",
+   "artist": "Far East Movement Ft Riff Raff",
+   "duration": 29.963,
+   "filename": "the-illest.m4r"
+ },
+ {
+   "title": "The Memory Remains",
+   "genre": "Metal",
+   "artist": "Metallica",
+   "duration": 31.024,
+   "filename": "the-memory-remains.m4r"
+ },
+ {
+   "title": "The Monster",
+   "genre": "Pop",
+   "artist": "Eminem feat. Rihanna",
+   "duration": 29.989,
+   "filename": "the-monster.m4r"
+ },
+ {
+   "title": "The Most Beautiful Girl in the World",
+   "genre": "R & B",
+   "artist": "Prince",
+   "duration": 30.015,
+   "filename": "the-most-beautiful-girl-in-the-world.m4r"
+ },
+ {
+   "title": "The Motto",
+   "genre": "Hip Hop",
+   "artist": "Drake Feat. Lil Wayne & Tyga",
+   "duration": 29.989,
+   "filename": "the-motto.m4r"
+ },
+ {
+   "title": "The Motto (Remix)",
+   "genre": "Hip Hop",
+   "artist": "Various Artst",
+   "duration": 14.002,
+   "filename": "the-motto-remix.m4r"
+ },
+ {
+   "title": "The Next Episode",
+   "genre": "Hip Hop",
+   "artist": "Dr. Dre/Snoop Dogg",
+   "duration": 30.015,
+   "filename": "the-next-episode.m4r"
+ },
+ {
+   "title": "The Older I Get",
+   "genre": "Alternative",
+   "artist": "Skillet",
+   "duration": 24.999,
+   "filename": "the-older-i-get.m4r"
+ },
+ {
+   "title": "The One",
+   "genre": "R & B",
+   "artist": "Tamar Braxton",
+   "duration": 29.989,
+   "filename": "the-one.m4r"
+ },
+ {
+   "title": "The One That Got Away",
+   "genre": "Pop",
+   "artist": "Katy Perry",
+   "duration": 30.015,
+   "filename": "the-one-that-got-away.m4r"
+ },
+ {
+   "title": "The Place to Be",
+   "genre": "Other",
+   "artist": "PL group",
+   "duration": 12.016,
+   "filename": "the-place-to-be.m4r"
+ },
+ {
+   "title": "The Story In Your Eyes",
+   "genre": "Rock",
+   "artist": "Moody Blues",
+   "duration": 22.021,
+   "filename": "the-story-in-your-eyes.m4r"
+ },
+ {
+   "title": "The Wind",
+   "genre": "Country",
+   "artist": "Zac Brown Band",
+   "duration": 30.015,
+   "filename": "the-wind.m4r"
+ },
+ {
+   "title": "The Worst",
+   "genre": "Hip-Hop",
+   "artist": "Jhene Aiko",
+   "duration": 27.979,
+   "filename": "the-worst.m4r"
+ },
+ {
+   "title": "TheQuestion",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 29.989,
+   "filename": "thequestion.m4r"
+ },
+ {
+   "title": "Theraflu",
+   "genre": "Hip Hop",
+   "artist": "Kanye West",
+   "duration": 29.989,
+   "filename": "theraflu.m4r"
+ },
+ {
+   "title": "There Goes My Baby",
+   "genre": "R & B",
+   "artist": "Usher",
+   "duration": 30.015,
+   "filename": "there-goes-my-baby.m4r"
+ },
+ {
+   "title": "They dont really care about us",
+   "genre": "R & B",
+   "artist": "Micheal Jackson",
+   "duration": 29.022,
+   "filename": "they-dont-really-care-about-us.m4r"
+ },
+ {
+   "title": "Thinking About You",
+   "genre": "R & B",
+   "artist": "Frank Ocean",
+   "duration": 22.988,
+   "filename": "thinking-about-you.m4r"
+ },
+ {
+   "title": "Thinking Out Loud-I\\\\\\'m Not the Only One",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Mashup Sam Tsui & CaseyBreves",
+   "duration": 24.868,
+   "filename": "thinking-out-loud-im-not-the-only-one.m4r"
+ },
+ {
+   "title": "This Is For The Lover In You",
+   "genre": "R & B",
+   "artist": "Shalmar",
+   "duration": 29.946,
+   "filename": "this-is-for-the-lover-in-you.m4r"
+ },
+ {
+   "title": "This is How We Do (Fresh 83)",
+   "genre": "Hip Hop",
+   "artist": "The Game Ft 50 Cent",
+   "duration": 30.015,
+   "filename": "this-is-how-we-do-fresh-83.m4r"
+ },
+ {
+   "title": "This Shit",
+   "genre": "Rap",
+   "artist": "Sol",
+   "duration": 30.015,
+   "filename": "this-sh.m4r"
+ },
+ {
+   "title": "Three Best Friends",
+   "genre": "Soundtrack",
+   "artist": "The Hangover",
+   "duration": 28.212,
+   "filename": "three-best-friends.m4r"
+ },
+ {
+   "title": "Thrift Shop",
+   "genre": "Hip-Hop",
+   "artist": "Macklemore",
+   "duration": 29.989,
+   "filename": "thrift-shop.m4r"
+ },
+ {
+   "title": "Thru My Eyes",
+   "genre": "Drum & Bass",
+   "artist": "The Alliance",
+   "duration": 29.989,
+   "filename": "thru-my-eyes.m4r"
+ },
+ {
+   "title": "thru the fire and flames",
+   "genre": "Alternative",
+   "artist": "me",
+   "duration": 29.989,
+   "filename": "thru-the-fire-and-flames.m4r"
+ },
+ {
+   "title": "Thunderkiss",
+   "genre": "Rock",
+   "artist": "White Zombie",
+   "duration": 29.989,
+   "filename": "thunderkiss.m4r"
+ },
+ {
+   "title": "Thunderstruck",
+   "genre": "Rock",
+   "artist": "ACDC",
+   "duration": 14.002,
+   "filename": "thunderstruck.m4r"
+ },
+ {
+   "title": "Tie Me Down (Feat. Ray J)",
+   "genre": "Hip Hop",
+   "artist": "New Boyz",
+   "duration": 29.963,
+   "filename": "tie-me-down-feat-ray-j.m4r"
+ },
+ {
+   "title": "Til My Last Day",
+   "genre": "Country",
+   "artist": "Justin Moore",
+   "duration": 29.989,
+   "filename": "til-my-last-day.m4r"
+ },
+ {
+   "title": "Timber",
+   "genre": "Pop",
+   "artist": "Pitbull feat. Kesha",
+   "duration": 29.989,
+   "filename": "timber.m4r"
+ },
+ {
+   "title": "Time Of Our Lives",
+   "genre": "Pop",
+   "artist": "Pitbull feat. Ne-Yo",
+   "duration": 30.015,
+   "filename": "time-of-our-lives.m4r"
+ },
+ {
+   "title": "Time Of Your Life",
+   "genre": "Hip Hop",
+   "artist": "Kid Ink",
+   "duration": 29.989,
+   "filename": "time-of-your-life.m4r"
+ },
+ {
+   "title": "Toma",
+   "genre": "Reggaeton",
+   "artist": "Pitbull",
+   "duration": 30.015,
+   "filename": "toma.m4r"
+ },
+ {
+   "title": "Tonight",
+   "genre": "R & B",
+   "artist": "John Legend",
+   "duration": 30.015,
+   "filename": "tonight.m4r"
+ },
+ {
+   "title": "Tonight Is The Night",
+   "genre": "Pop",
+   "artist": "Outasight",
+   "duration": 30.015,
+   "filename": "tonight-is-the-night.m4r"
+ },
+ {
+   "title": "Tornado",
+   "genre": "Country",
+   "artist": "Little Big Town",
+   "duration": 29.989,
+   "filename": "tornado.m4r"
+ },
+ {
+   "title": "Touch It",
+   "genre": "Hip Hop",
+   "artist": "Busta Rhymes",
+   "duration": 28.341,
+   "filename": "touch-it.m4r"
+ },
+ {
+   "title": "Touchin, Lovin (feat. Nicki Minaj)",
+   "genre": "R & B",
+   "artist": "Trey Songz",
+   "duration": 29.989,
+   "filename": "touchin-lovin-feat-nicki-minaj.m4r"
+ },
+ {
+   "title": "Toxic",
+   "genre": "Pop",
+   "artist": "Britney Spears",
+   "duration": 29.989,
+   "filename": "toxic.m4r"
+ },
+ {
+   "title": "trampoline booty",
+   "genre": "Hip Hop",
+   "artist": "KStylist",
+   "duration": 29.022,
+   "filename": "trampoline-booty.m4r"
+ },
+ {
+   "title": "TRAP SHIT",
+   "genre": "Electronica",
+   "artist": "UZ",
+   "duration": 30.015,
+   "filename": "trap-sh.m4r"
+ },
+ {
+   "title": "TRIOF",
+   "genre": "Hip Hop",
+   "artist": "Bizzy Bone",
+   "duration": 29.022,
+   "filename": "triof.m4r"
+ },
+ {
+   "title": "Triumphant",
+   "genre": "Hip Hop",
+   "artist": "Mariah Carey",
+   "duration": 28.996,
+   "filename": "triumphant.m4r"
+ },
+ {
+   "title": "trust and believe",
+   "genre": "R & B",
+   "artist": "keyshia cole",
+   "duration": 30.015,
+   "filename": "trust-and-believe.m4r"
+ },
+ {
+   "title": "Tsunami",
+   "genre": "Dance",
+   "artist": "DVBBS & Borgeous",
+   "duration": 29.989,
+   "filename": "tsunami.m4r"
+ },
+ {
+   "title": "Tuesday",
+   "genre": "Pop",
+   "artist": "ILoveMakonnen feat. Drake",
+   "duration": 30.015,
+   "filename": "tuesday.m4r"
+ },
+ {
+   "title": "tum hi ho",
+   "genre": "Blues",
+   "artist": "priyanka",
+   "duration": 2.011,
+   "filename": "tum-hi-ho.m4r"
+ },
+ {
+   "title": "Turn Around",
+   "genre": "Dance",
+   "artist": "Conor Maynard",
+   "duration": 30.015,
+   "filename": "turn-around.m4r"
+ },
+ {
+   "title": "Turn It Up (vs. GTA ft. Wolfpack)(Pelari Trap Remix)",
+   "genre": "House",
+   "artist": "DMITRI VEGAS & LIKE MIKE",
+   "duration": 29.989,
+   "filename": "turn-it-up-vs-gta-ft-wolfpackpelari-trap-remi.m4r"
+ },
+ {
+   "title": "Turn Me On",
+   "genre": "Dance",
+   "artist": "David Guetta Nicki Minaj",
+   "duration": 29.989,
+   "filename": "turn-me-on.m4r"
+ },
+ {
+   "title": "Turn Up the Music",
+   "genre": "Pop",
+   "artist": "Chris Brown",
+   "duration": 30.015,
+   "filename": "turn-up-the-music.m4r"
+ },
+ {
+   "title": "Tut-Tut (Jazz)",
+   "genre": "Jazz",
+   "artist": "ZAPP",
+   "duration": 29.989,
+   "filename": "tut-tut-jazz.m4r"
+ },
+ {
+   "title": "Two Black Cadillacs",
+   "genre": "Country",
+   "artist": "Carrie Underwood",
+   "duration": 30.015,
+   "filename": "two-black-cadillacs.m4r"
+ },
+ {
+   "title": "Two Occasions",
+   "genre": "R & B",
+   "artist": "The Deele",
+   "duration": 30.015,
+   "filename": "two-occasions.m4r"
+ },
+ {
+   "title": "Unholy Confessions",
+   "genre": "Hardcore/Emo",
+   "artist": "Avenged Sevenfold",
+   "duration": 29.989,
+   "filename": "unholy-confessions.m4r"
+ },
+ {
+   "title": "Unpredictable",
+   "genre": "Pop",
+   "artist": "Celeste Buckingham",
+   "duration": 30.015,
+   "filename": "unpredictable.m4r"
+ },
+ {
+   "title": "Up",
+   "genre": "Hip Hop",
+   "artist": "LoveRance",
+   "duration": 29.989,
+   "filename": "up.m4r"
+ },
+ {
+   "title": "Uptown Funk! (Feat.Bruno Mars)",
+   "genre": "Pop",
+   "artist": "Mark Ronson",
+   "duration": 30.015,
+   "filename": "uptown-funk-featbruno-mars.m4r"
+ },
+ {
+   "title": "Va Va Voom",
+   "genre": "Pop",
+   "artist": "Nicki Minaj",
+   "duration": 30.986,
+   "filename": "va-va-voom.m4r"
+ },
+ {
+   "title": "Valentine",
+   "genre": "Country",
+   "artist": "Jim Brickman",
+   "duration": 30.015,
+   "filename": "valentine.m4r"
+ },
+ {
+   "title": "Vashawn Mitchell",
+   "genre": "Gospel",
+   "artist": "Turning around for me",
+   "duration": 29.989,
+   "filename": "vashawn-mitchell.m4r"
+ },
+ {
+   "title": "vitamin C - Graduation (Friends Forever)lyrics",
+   "genre": "Pop",
+   "artist": "vitamin C",
+   "duration": 30.015,
+   "filename": "vitamin-c-graduation-friends-foreverlyrics.m4r"
+ },
+ {
+   "title": "Volcano",
+   "genre": "Alternative",
+   "artist": "Damien Rice",
+   "duration": 30.015,
+   "filename": "volcano.m4r"
+ },
+ {
+   "title": "Volvi A Nacer",
+   "genre": "Latin",
+   "artist": "Carlos Vives",
+   "duration": 29.989,
+   "filename": "volvi-a-nacer.m4r"
+ },
+ {
+   "title": "Wagon Wheel",
+   "genre": "Country",
+   "artist": "Old Crow Medicine Show",
+   "duration": 32.458,
+   "filename": "wagon-wheel.m4r"
+ },
+ {
+   "title": "Waiting",
+   "genre": "House",
+   "artist": "Aquanote (featuring Caetlin Cornwell)",
+   "duration": 29.989,
+   "filename": "waiting.m4r"
+ },
+ {
+   "title": "Wake Me Up",
+   "genre": "Electronica",
+   "artist": "Avicii",
+   "duration": 29.989,
+   "filename": "wake-me-up.m4r"
+ },
+ {
+   "title": "Walking On A Dream",
+   "genre": "Pop",
+   "artist": "Empire Of The Sun",
+   "duration": 29.989,
+   "filename": "walking-on-a-dream.m4r"
+ },
+ {
+   "title": "Wallander",
+   "genre": "Alternative",
+   "artist": "Anon",
+   "duration": 23.014,
+   "filename": "wallander.m4r"
+ },
+ {
+   "title": "Wanna be happy",
+   "genre": "Gospel",
+   "artist": "Kirk Franklin",
+   "duration": 29.989,
+   "filename": "wanna-be-happy.m4r"
+ },
+ {
+   "title": "Wanna be startin something",
+   "genre": "Soul and R&B",
+   "artist": "Micheal Jackson",
+   "duration": 25.025,
+   "filename": "wanna-be-startin-something.m4r"
+ },
+ {
+   "title": "Wanna Make You Love Me",
+   "genre": "Country",
+   "artist": "Andy Gibson",
+   "duration": 26.894,
+   "filename": "wanna-make-you-love-me.m4r"
+ },
+ {
+   "title": "Want To Want Me",
+   "genre": "Rap",
+   "artist": "Jason Derulo",
+   "duration": 30.015,
+   "filename": "want-to-want-me.m4r"
+ },
+ {
+   "title": "Want U Back",
+   "genre": "Pop",
+   "artist": "Cher Lloyd",
+   "duration": 29.989,
+   "filename": "want-u-back.m4r"
+ },
+ {
+   "title": "Wanted",
+   "genre": "Country",
+   "artist": "Hunter Hayes",
+   "duration": 29.989,
+   "filename": "wanted.m4r"
+ },
+ {
+   "title": "Warning",
+   "genre": "Other",
+   "artist": "Watoto",
+   "duration": 30.015,
+   "filename": "warning.m4r"
+ },
+ {
+   "title": "Wasted",
+   "genre": "Hip Hop",
+   "artist": "Lil Wayne",
+   "duration": 30.015,
+   "filename": "wasted.m4r"
+ },
+ {
+   "title": "Wasted (Gucci Mane feat. Plies)",
+   "genre": "Hip Hop",
+   "artist": "Gucci Mane",
+   "duration": 30.015,
+   "filename": "wasted-gucci-mane-feat-plies.m4r"
+ },
+ {
+   "title": "Wasting Light",
+   "genre": "Rock",
+   "artist": "Foo Fighters",
+   "duration": 30.015,
+   "filename": "wasting-light.m4r"
+ },
+ {
+   "title": "Watch Me",
+   "genre": "Hip-Hop",
+   "artist": "Silento",
+   "duration": 29.989,
+   "filename": "watch-me.m4r"
+ },
+ {
+   "title": "Way Too Cold",
+   "genre": "Hip Hop",
+   "artist": "Kanye West",
+   "duration": 29.989,
+   "filename": "way-too-cold.m4r"
+ },
+ {
+   "title": "We Are Family",
+   "genre": "Disco",
+   "artist": "SISTER SLEDGE",
+   "duration": 29.989,
+   "filename": "we-are-family.m4r"
+ },
+ {
+   "title": "We Are Never Ever Getting Back Together",
+   "genre": "Pop",
+   "artist": "Taylor Swift",
+   "duration": 29.989,
+   "filename": "we-are-never-ever-getting-back-together.m4r"
+ },
+ {
+   "title": "We Are Young (ft. Janelle Monáe)",
+   "genre": "Alternative",
+   "artist": "Fun.",
+   "duration": 30.015,
+   "filename": "we-are-young-ft-janelle-mone.m4r"
+ },
+ {
+   "title": "We Cant Stop",
+   "genre": "Pop",
+   "artist": "Miley Cyrus",
+   "duration": 29.989,
+   "filename": "we-cant-stop.m4r"
+ },
+ {
+   "title": "we dem boyz",
+   "genre": "Hip-Hop",
+   "artist": "wiz",
+   "duration": 28.996,
+   "filename": "we-dem-boyz.m4r"
+ },
+ {
+   "title": "We Found Love",
+   "genre": "Pop",
+   "artist": "Rihanna",
+   "duration": 29.989,
+   "filename": "we-found-love.m4r"
+ },
+ {
+   "title": "We Run The Nigh",
+   "genre": "Dance",
+   "artist": "Havana Brown",
+   "duration": 29.989,
+   "filename": "we-run-the-nigh.m4r"
+ },
+ {
+   "title": "Welcome to My World",
+   "genre": "Country",
+   "artist": "Unknown",
+   "duration": 28.003,
+   "filename": "welcome-to-my-world.m4r"
+ },
+ {
+   "title": "We\\\\\\'ll Be Fine",
+   "genre": "Hip Hop",
+   "artist": "Drake",
+   "duration": 30.015,
+   "filename": "well-be-fine.m4r"
+ },
+ {
+   "title": "West West Side",
+   "genre": "Dance",
+   "artist": "The Rhythm of House Vol. 4",
+   "duration": 29.989,
+   "filename": "west-west-side.m4r"
+ },
+ {
+   "title": "Westside Story",
+   "genre": "Hip Hop",
+   "artist": "The Game",
+   "duration": 30.197,
+   "filename": "westside-story.m4r"
+ },
+ {
+   "title": "What Do You Mean",
+   "genre": "Pop",
+   "artist": "Justin Bieber",
+   "duration": 29.989,
+   "filename": "what-do-you-mean.m4r"
+ },
+ {
+   "title": "What Happened To You",
+   "genre": "R & B",
+   "artist": "Usher",
+   "duration": 30,
+   "filename": "what-happened-to-you.m4r"
+ },
+ {
+   "title": "What Hurts The Most",
+   "genre": "Country",
+   "artist": "Rascal flatts",
+   "duration": 30.024,
+   "filename": "what-hurts-the-most.m4r"
+ },
+ {
+   "title": "What Kinda Gone",
+   "genre": "Country",
+   "artist": "Chris Cagle",
+   "duration": 30.052,
+   "filename": "what-kinda-gone.m4r"
+ },
+ {
+   "title": "What Lies Beneath",
+   "genre": "Pop-Punk",
+   "artist": "Breaking Benjamin",
+   "duration": 29.944,
+   "filename": "what-lies-beneath.m4r"
+ },
+ {
+   "title": "What Makes You Beautiful",
+   "genre": "Pop",
+   "artist": "One Direction",
+   "duration": 30,
+   "filename": "what-makes-you-beautiful.m4r"
+ },
+ {
+   "title": "Whats Missin",
+   "genre": "Soul and R&B",
+   "artist": "Alexander O\\'neal",
+   "duration": 26.018,
+   "filename": "whats-missin.m4r"
+ },
+ {
+   "title": "When Wou\\\\\\'re In Love",
+   "genre": "Country",
+   "artist": "George Strait",
+   "duration": 30.015,
+   "filename": "when-woure-in-love.m4r"
+ },
+ {
+   "title": "Where Have You Been",
+   "genre": "Pop",
+   "artist": "Rihanna",
+   "duration": 29.989,
+   "filename": "where-have-you-been.m4r"
+ },
+ {
+   "title": "Whip It",
+   "genre": "Rock",
+   "artist": "Devo",
+   "duration": 31.627,
+   "filename": "whip-it.m4r"
+ },
+ {
+   "title": "Whistle",
+   "genre": "Hip Hop",
+   "artist": "Flo Rida",
+   "duration": 29.989,
+   "filename": "whistle.m4r"
+ },
+ {
+   "title": "White Iverson",
+   "genre": "Hip-Hop",
+   "artist": "Post Malone",
+   "duration": 29.989,
+   "filename": "white-iverson.m4r"
+ },
+ {
+   "title": "White Linen (Coolin) {ft. Ne-Yo}",
+   "genre": "Hip Hop",
+   "artist": "Wale",
+   "duration": 29.989,
+   "filename": "white-linen-coolin-ft-ne-yo.m4r"
+ },
+ {
+   "title": "Who Booty",
+   "genre": "R & B",
+   "artist": "John Hart",
+   "duration": 30.015,
+   "filename": "who-booty.m4r"
+ },
+ {
+   "title": "Who Knew?",
+   "genre": "R & B",
+   "artist": "KeKe Wyatt",
+   "duration": 29.989,
+   "filename": "who-knew.m4r"
+ },
+ {
+   "title": "Why I Love You",
+   "genre": "Hip Hop",
+   "artist": "Jay-Z & Kanye West",
+   "duration": 28.996,
+   "filename": "why-i-love-you.m4r"
+ },
+ {
+   "title": "Why Ya Wanna",
+   "genre": "Country",
+   "artist": "Jana Kramer",
+   "duration": 29.022,
+   "filename": "why-ya-wanna.m4r"
+ },
+ {
+   "title": "Why ya wanna bring me down",
+   "genre": "Country",
+   "artist": "Kelly Clarkson",
+   "duration": 30.015,
+   "filename": "why-ya-wanna-bring-me-down.m4r"
+ },
+ {
+   "title": "Wicked Games",
+   "genre": "Alternative",
+   "artist": "The Weeknd",
+   "duration": 29.989,
+   "filename": "wicked-games.m4r"
+ },
+ {
+   "title": "Wide Awake",
+   "genre": "Pop",
+   "artist": "Katy Perry",
+   "duration": 30,
+   "filename": "wide-awake.m4r"
+ },
+ {
+   "title": "Wild Ones",
+   "genre": "Hip Hop",
+   "artist": "Flo-Rida Ft. Sia",
+   "duration": 28.003,
+   "filename": "wild-ones.m4r"
+ },
+ {
+   "title": "Wild Ones ft. Sia",
+   "genre": "Pop",
+   "artist": "Flo Rida",
+   "duration": 129.412,
+   "filename": "wild-ones-ft-sia.m4r"
+ },
+ {
+   "title": "Wildest Dreams",
+   "genre": "Pop",
+   "artist": "Taylor Swift",
+   "duration": 30.015,
+   "filename": "wildest-dreams.m4r"
+ },
+ {
+   "title": "Wish You Were Here",
+   "genre": "Other",
+   "artist": "Avril Lavigne",
+   "duration": 24.999,
+   "filename": "wish-you-were-here.m4r"
+ },
+ {
+   "title": "Without Me",
+   "genre": "R & B",
+   "artist": "Fantasia",
+   "duration": 29.989,
+   "filename": "without-me.m4r"
+ },
+ {
+   "title": "wiz",
+   "genre": "Rap",
+   "artist": "wiz",
+   "duration": 30.015,
+   "filename": "wiz.m4r"
+ },
+ {
+   "title": "Wobble Wobble",
+   "genre": "Hip Hop",
+   "artist": "504 Boyz",
+   "duration": 29.989,
+   "filename": "wobble-wobble.m4r"
+ },
+ {
+   "title": "Work Hard Play Hard",
+   "genre": "Hip Hop",
+   "artist": "Wiz Khalifa",
+   "duration": 30.015,
+   "filename": "work-hard-play-hard.m4r"
+ },
+ {
+   "title": "Work Out",
+   "genre": "Hip Hop",
+   "artist": "J. Cole",
+   "duration": 30.015,
+   "filename": "work-out.m4r"
+ },
+ {
+   "title": "Work Out (PO Clean Edit)",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "J. Cole",
+   "duration": 28.281,
+   "filename": "work-out-po-clean-edit.m4r"
+ },
+ {
+   "title": "Work the middle",
+   "genre": "Hip Hop",
+   "artist": "Kadillac nd PeeWee",
+   "duration": 30.015,
+   "filename": "work-the-middle.m4r"
+ },
+ {
+   "title": "XO",
+   "genre": "Pop",
+   "artist": "Beyonce",
+   "duration": 24.007,
+   "filename": "xo.m4r"
+ },
+ {
+   "title": "Ya lo se",
+   "genre": "Latin",
+   "artist": "Jenni Rivera",
+   "duration": 29.989,
+   "filename": "ya-lo-se.m4r"
+ },
+ {
+   "title": "Y\\\\\\'all Want A Single",
+   "genre": "Rock",
+   "artist": "Korn",
+   "duration": 16.013,
+   "filename": "yall-want-a-single.m4r"
+ },
+ {
+   "title": "Yeah",
+   "genre": "Pop",
+   "artist": "Chris Brown",
+   "duration": 36.289,
+   "filename": "yeah.m4r"
+ },
+ {
+   "title": "YMCA",
+   "genre": "Disco",
+   "artist": "Village People",
+   "duration": 30.015,
+   "filename": "ymca.m4r"
+ },
+ {
+   "title": "You And Me",
+   "genre": "Pop",
+   "artist": "Parachute",
+   "duration": 29.989,
+   "filename": "you-and-me.m4r"
+ },
+ {
+   "title": "You Don\\\\\\'t Know Her Like I Do",
+   "genre": "Country",
+   "artist": "Brantley Gilbert",
+   "duration": 29.989,
+   "filename": "you-dont-know-her-like-i-do.m4r"
+ },
+ {
+   "title": "You Dont Know My Name",
+   "genre": "R & B",
+   "artist": "Alicia Keys",
+   "duration": 29.989,
+   "filename": "you-dont-know-my-name.m4r"
+ },
+ {
+   "title": "You Make Me Feel",
+   "genre": "Disco",
+   "artist": "Sylvester",
+   "duration": 30.015,
+   "filename": "you-make-me-feel.m4r"
+ },
+ {
+   "title": "You The Boss",
+   "genre": "Hip Hop",
+   "artist": "Rick Ross Ft. Nicki Minaj",
+   "duration": 30.015,
+   "filename": "you-the-boss.m4r"
+ },
+ {
+   "title": "Young Love",
+   "genre": "R & B",
+   "artist": "Janet Jackson",
+   "duration": 29.989,
+   "filename": "young-love.m4r"
+ },
+ {
+   "title": "Young, Wild, And Free",
+   "genre": "Hip Hop",
+   "artist": "Wiz Khalifa & Snoop Dogg",
+   "duration": 29.989,
+   "filename": "young-wild-and-free.m4r"
+ },
+ {
+   "title": "You\\\\\\'re So Beautiful (Feat. Yazz) [Music From Empire]",
+   "genre": "Hip Hop / R&B (Clean)",
+   "artist": "Jussie Smollett",
+   "duration": 29.989,
+   "filename": "youre-so-beautiful-feat-yazz-music-from-empi.m4r"
+ },
+ {
+   "title": "You\\\\\\'ve Changed",
+   "genre": "R & B",
+   "artist": "Candice Glover",
+   "duration": 30.015,
+   "filename": "youve-changed.m4r"
+ },
+ {
+   "title": "ํYu Tong Nee Nan Kiu Nee",
+   "genre": "Pop",
+   "artist": "BY HanSooIn",
+   "duration": 28.955,
+   "filename": "yu-tong-nee-nan-kiu-nee.m4r"
+ }
+]
